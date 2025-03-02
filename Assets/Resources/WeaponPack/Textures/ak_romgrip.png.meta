@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 20e3f6b2c1dc0d3418e6e2fe454b12a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 516882260493809788
+    second: ak_romgrip_0
+  - first:
+      213: 6834878406758808255
+    second: ak_romgrip_1
+  - first:
+      213: -7158380695284435662
+    second: ak_romgrip_2
+  - first:
+      213: 3746668892848361892
+    second: ak_romgrip_3
+  - first:
+      213: 7300590628511670156
+    second: ak_romgrip_4
+  - first:
+      213: -5631583106656920285
+    second: ak_romgrip_5
+  - first:
+      213: -8638949090627850221
+    second: ak_romgrip_6
+  - first:
+      213: 6011768206121244629
+    second: ak_romgrip_7
+  - first:
+      213: 872659296576986865
+    second: ak_romgrip_8
+  - first:
+      213: 1401226882186159968
+    second: ak_romgrip_9
+  - first:
+      213: 1491635602183934850
+    second: ak_romgrip_10
+  - first:
+      213: -3616679453716950155
+    second: ak_romgrip_11
+  - first:
+      213: -2356984233093990564
+    second: ak_romgrip_12
+  - first:
+      213: -3437827177700635592
+    second: ak_romgrip_13
+  - first:
+      213: 8357157335237036333
+    second: ak_romgrip_14
+  - first:
+      213: 2946958491810025783
+    second: ak_romgrip_15
+  - first:
+      213: 825893992250225354
+    second: ak_romgrip_16
+  - first:
+      213: -2617635005628996215
+    second: ak_romgrip_17
+  - first:
+      213: 7265808849255682264
+    second: ak_romgrip_18
+  - first:
+      213: -7671001303815767478
+    second: ak_romgrip_19
+  - first:
+      213: -4518836737598203446
+    second: ak_romgrip_20
+  - first:
+      213: 5377601367592195484
+    second: ak_romgrip_21
+  - first:
+      213: -5367699972928674522
+    second: ak_romgrip_22
+  - first:
+      213: 720715997853911285
+    second: ak_romgrip_23
+  - first:
+      213: -1674633551809408882
+    second: ak_romgrip_24
+  - first:
+      213: 2176097280344304313
+    second: ak_romgrip_25
+  - first:
+      213: -5285868936263066513
+    second: ak_romgrip_26
+  - first:
+      213: 1353497504699357667
+    second: ak_romgrip_27
+  - first:
+      213: -5736545688442845572
+    second: ak_romgrip_28
+  - first:
+      213: -7438318250752150841
+    second: ak_romgrip_29
+  - first:
+      213: -2962936793728837942
+    second: ak_romgrip_30
+  - first:
+      213: 6239663979868919971
+    second: ak_romgrip_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ak_romgrip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 1246
+        height: 1263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c783f676da55c2700800000000000000
+      internalID: 516882260493809788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_1
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1752
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbab8ddb2bd5ade50800000000000000
+      internalID: 6834878406758808255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_2
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1433
+        width: 281
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235be823fa258ac90800000000000000
+      internalID: -7158380695284435662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1252
+        width: 281
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a19b31e187def330800000000000000
+      internalID: 3746668892848361892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1015
+        width: 362
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fdbf61f78e05560800000000000000
+      internalID: 7300590628511670156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 280
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d9f9c700998d1b0800000000000000
+      internalID: -5631583106656920285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 704
+        width: 199
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310717cb2994c1880800000000000000
+      internalID: -8638949090627850221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 826
+        width: 362
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d718dde4571e6350800000000000000
+      internalID: 6011768206121244629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 769
+        width: 149
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fed966b10f4c1c00800000000000000
+      internalID: 872659296576986865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 753
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0672f62ec68227310800000000000000
+      internalID: 1401226882186159968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 769
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283df7a5daa53b410800000000000000
+      internalID: 1491635602183934850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 671
+        width: 281
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735fb6e239fecdc0800000000000000
+      internalID: -3616679453716950155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_12
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 597
+        width: 363
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c577c3de35f4a4fd0800000000000000
+      internalID: -2356984233093990564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 687
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c48f175626a40d0800000000000000
+      internalID: -3437827177700635592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 695
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d298ada71569af370800000000000000
+      internalID: 8357157335237036333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 712
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73158287223b5e820800000000000000
+      internalID: 2946958491810025783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 679
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2343ec53a267b00800000000000000
+      internalID: 825893992250225354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_17
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 695
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9852bd9c4da4cabd0800000000000000
+      internalID: -2617635005628996215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_18
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 638
+        width: 198
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d056c907a655d460800000000000000
+      internalID: 7265808849255682264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_19
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 638
+        width: 182
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ab086f4f02b8590800000000000000
+      internalID: -7671001303815767478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 402
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac95971ddedd941c0800000000000000
+      internalID: -4518836737598203446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 458
+        width: 330
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95dcfab3f311aa40800000000000000
+      internalID: 5377601367592195484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 491
+        width: 330
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62566bc50591285b0800000000000000
+      internalID: -5367699972928674522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_23
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 630
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8060ca16f700a00800000000000000
+      internalID: 720715997853911285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_24
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 630
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80137f38a182c8e0800000000000000
+      internalID: -1674633551809408882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_25
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 613
+        width: 133
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baad9f62fc033e10800000000000000
+      internalID: 2176097280344304313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_26
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 540
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c94cc4532d4a6b0800000000000000
+      internalID: -5285868936263066513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 245
+        width: 330
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e99bf33fc698c210800000000000000
+      internalID: 1353497504699357667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 278
+        width: 591
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76c0920712b360b0800000000000000
+      internalID: -5736545688442845572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 97
+        width: 379
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2fc99f5f8c5c890800000000000000
+      internalID: -7438318250752150841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_30
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 278
+        width: 379
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac69bd53fa881e6d0800000000000000
+      internalID: -2962936793728837942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak_romgrip_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 40
+        width: 330
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a813ed945db79650800000000000000
+      internalID: 6239663979868919971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ak_romgrip_0: 516882260493809788
+      ak_romgrip_1: 6834878406758808255
+      ak_romgrip_10: 1491635602183934850
+      ak_romgrip_11: -3616679453716950155
+      ak_romgrip_12: -2356984233093990564
+      ak_romgrip_13: -3437827177700635592
+      ak_romgrip_14: 8357157335237036333
+      ak_romgrip_15: 2946958491810025783
+      ak_romgrip_16: 825893992250225354
+      ak_romgrip_17: -2617635005628996215
+      ak_romgrip_18: 7265808849255682264
+      ak_romgrip_19: -7671001303815767478
+      ak_romgrip_2: -7158380695284435662
+      ak_romgrip_20: -4518836737598203446
+      ak_romgrip_21: 5377601367592195484
+      ak_romgrip_22: -5367699972928674522
+      ak_romgrip_23: 720715997853911285
+      ak_romgrip_24: -1674633551809408882
+      ak_romgrip_25: 2176097280344304313
+      ak_romgrip_26: -5285868936263066513
+      ak_romgrip_27: 1353497504699357667
+      ak_romgrip_28: -5736545688442845572
+      ak_romgrip_29: -7438318250752150841
+      ak_romgrip_3: 3746668892848361892
+      ak_romgrip_30: -2962936793728837942
+      ak_romgrip_31: 6239663979868919971
+      ak_romgrip_4: 7300590628511670156
+      ak_romgrip_5: -5631583106656920285
+      ak_romgrip_6: -8638949090627850221
+      ak_romgrip_7: 6011768206121244629
+      ak_romgrip_8: 872659296576986865
+      ak_romgrip_9: 1401226882186159968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

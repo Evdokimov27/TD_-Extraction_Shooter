@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: d7659a553c1ded9479aa27cd8decae27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4635609152266633187
+    second: acog_0
+  - first:
+      213: 3706744794970251703
+    second: acog_1
+  - first:
+      213: 1524689599933991479
+    second: acog_2
+  - first:
+      213: -8708599632385095897
+    second: acog_3
+  - first:
+      213: 5310137220912252070
+    second: acog_4
+  - first:
+      213: -6490555625584572039
+    second: acog_5
+  - first:
+      213: 1709451955432244154
+    second: acog_6
+  - first:
+      213: 4453596025089960735
+    second: acog_7
+  - first:
+      213: -9136346254002460148
+    second: acog_8
+  - first:
+      213: 6578860178189313307
+    second: acog_9
+  - first:
+      213: -6498565003740890603
+    second: acog_10
+  - first:
+      213: -6096455393194866719
+    second: acog_11
+  - first:
+      213: -503691636603891566
+    second: acog_12
+  - first:
+      213: -2368373008519119600
+    second: acog_13
+  - first:
+      213: 7514879116677862118
+    second: acog_14
+  - first:
+      213: -7499992284179270960
+    second: acog_15
+  - first:
+      213: 7383912219604774815
+    second: acog_16
+  - first:
+      213: 1514251420759739793
+    second: acog_17
+  - first:
+      213: -8787106658627881775
+    second: acog_18
+  - first:
+      213: 1825578224448910165
+    second: acog_19
+  - first:
+      213: -8066025566871537514
+    second: acog_20
+  - first:
+      213: -7986283277535683485
+    second: acog_21
+  - first:
+      213: -8638501605748595338
+    second: acog_22
+  - first:
+      213: -1701954264672358885
+    second: acog_23
+  - first:
+      213: 6593024227063609216
+    second: acog_24
+  - first:
+      213: 4454344000329564302
+    second: acog_25
+  - first:
+      213: -7348163190196022716
+    second: acog_26
+  - first:
+      213: 3418005010275586572
+    second: acog_27
+  - first:
+      213: 5039011039423245482
+    second: acog_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: acog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 1713
+        height: 1569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10099959020bafb0800000000000000
+      internalID: -4635609152266633187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_1
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1191
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1ea3970c0017330800000000000000
+      internalID: 3706744794970251703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_2
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1103
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a4cccec19c82510800000000000000
+      internalID: 1524689599933991479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 471
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727c69446c6d42780800000000000000
+      internalID: -8708599632385095897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 471
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a40e090ba561b940800000000000000
+      internalID: 5310137220912252070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9794e160c0aece5a0800000000000000
+      internalID: -6490555625584572039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3c2241f7139b710800000000000000
+      internalID: 1709451955432244154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b24981df95ecd30800000000000000
+      internalID: 4453596025089960735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a66390d7d253180800000000000000
+      internalID: -9136346254002460148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15efebc97ecc4b50800000000000000
+      internalID: 6578860178189313307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a3d3a5f8570d5a0800000000000000
+      internalID: -6498565003740890603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e70b9bce1a056ba0800000000000000
+      internalID: -6096455393194866719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d3eb00278209f0800000000000000
+      internalID: -503691636603891566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d38930c49d12fd0800000000000000
+      internalID: -2368373008519119600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2d597bdb63a4860800000000000000
+      internalID: 7514879116677862118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2f25311ccaae790800000000000000
+      internalID: -7499992284179270960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f6536ca0de87660800000000000000
+      internalID: 7383912219604774815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dc303f4a3b30510800000000000000
+      internalID: 1514251420759739793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4f301dc0ded0680800000000000000
+      internalID: -8787106658627881775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55337f909b1c55910800000000000000
+      internalID: 1825578224448910165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69837698b78bf0090800000000000000
+      internalID: -8066025566871537514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd7d61ca50b2190800000000000000
+      internalID: -7986283277535683485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675a6bdee80ed1880800000000000000
+      internalID: -8638501605748595338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_23
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e2e361d917168e0800000000000000
+      internalID: -1701954264672358885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_24
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087bba96a902f7b50800000000000000
+      internalID: 6593024227063609216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_25
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e804907a44201dd30800000000000000
+      internalID: 4454344000329564302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_26
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442d3c0c284160a90800000000000000
+      internalID: -7348163190196022716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_27
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c025bfd82713f6f20800000000000000
+      internalID: 3418005010275586572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acog_28
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac2810b7d92ee540800000000000000
+      internalID: 5039011039423245482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      acog_0: -4635609152266633187
+      acog_1: 3706744794970251703
+      acog_10: -6498565003740890603
+      acog_11: -6096455393194866719
+      acog_12: -503691636603891566
+      acog_13: -2368373008519119600
+      acog_14: 7514879116677862118
+      acog_15: -7499992284179270960
+      acog_16: 7383912219604774815
+      acog_17: 1514251420759739793
+      acog_18: -8787106658627881775
+      acog_19: 1825578224448910165
+      acog_2: 1524689599933991479
+      acog_20: -8066025566871537514
+      acog_21: -7986283277535683485
+      acog_22: -8638501605748595338
+      acog_23: -1701954264672358885
+      acog_24: 6593024227063609216
+      acog_25: 4454344000329564302
+      acog_26: -7348163190196022716
+      acog_27: 3418005010275586572
+      acog_28: 5039011039423245482
+      acog_3: -8708599632385095897
+      acog_4: 5310137220912252070
+      acog_5: -6490555625584572039
+      acog_6: 1709451955432244154
+      acog_7: 4453596025089960735
+      acog_8: -9136346254002460148
+      acog_9: 6578860178189313307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

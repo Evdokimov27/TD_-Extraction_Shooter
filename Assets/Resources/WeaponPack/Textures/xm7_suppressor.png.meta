@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 9dbb95e7baa4bcc42b5dc82b77b9047f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4097091137426987357
+    second: xm7_suppressor_0
+  - first:
+      213: 1868900977601677368
+    second: xm7_suppressor_1
+  - first:
+      213: 4348982065647656868
+    second: xm7_suppressor_2
+  - first:
+      213: 784894756117406951
+    second: xm7_suppressor_3
+  - first:
+      213: 6954741061246832140
+    second: xm7_suppressor_4
+  - first:
+      213: 7658331969834358107
+    second: xm7_suppressor_5
+  - first:
+      213: 5948625253675695487
+    second: xm7_suppressor_6
+  - first:
+      213: -7303217574179998743
+    second: xm7_suppressor_7
+  - first:
+      213: -4736913231535415357
+    second: xm7_suppressor_8
+  - first:
+      213: 2672888177994556289
+    second: xm7_suppressor_9
+  - first:
+      213: 8056590870112751357
+    second: xm7_suppressor_10
+  - first:
+      213: -6495300955556584166
+    second: xm7_suppressor_11
+  - first:
+      213: -5688203645545904573
+    second: xm7_suppressor_12
+  - first:
+      213: -1745727479757976692
+    second: xm7_suppressor_13
+  - first:
+      213: 1453709194095847178
+    second: xm7_suppressor_14
+  - first:
+      213: -7136653284572380603
+    second: xm7_suppressor_15
+  - first:
+      213: 1382980228852557578
+    second: xm7_suppressor_16
+  - first:
+      213: -8722057149037063944
+    second: xm7_suppressor_17
+  - first:
+      213: -8348497139313979578
+    second: xm7_suppressor_18
+  - first:
+      213: -4659368304484132539
+    second: xm7_suppressor_19
+  - first:
+      213: -1389748095461437753
+    second: xm7_suppressor_20
+  - first:
+      213: -5259891513028594153
+    second: xm7_suppressor_21
+  - first:
+      213: 3822246128678196561
+    second: xm7_suppressor_22
+  - first:
+      213: 4537803733405160047
+    second: xm7_suppressor_23
+  - first:
+      213: 1329000725951499566
+    second: xm7_suppressor_24
+  - first:
+      213: -623456600908630759
+    second: xm7_suppressor_25
+  - first:
+      213: -5788155505977266037
+    second: xm7_suppressor_26
+  - first:
+      213: 295534703033326588
+    second: xm7_suppressor_27
+  - first:
+      213: -1250891055785379837
+    second: xm7_suppressor_28
+  - first:
+      213: -8145900151431837991
+    second: xm7_suppressor_29
+  - first:
+      213: -52944802118010920
+    second: xm7_suppressor_30
+  - first:
+      213: -2685360096534550361
+    second: xm7_suppressor_31
+  - first:
+      213: -3292023587018758405
+    second: xm7_suppressor_32
+  - first:
+      213: -2705626567086572027
+    second: xm7_suppressor_33
+  - first:
+      213: 8985180610477057304
+    second: xm7_suppressor_34
+  - first:
+      213: 990140521069492663
+    second: xm7_suppressor_35
+  - first:
+      213: -620651976189345820
+    second: xm7_suppressor_36
+  - first:
+      213: -2928869350650171236
+    second: xm7_suppressor_37
+  - first:
+      213: -1903420279893123859
+    second: xm7_suppressor_38
+  - first:
+      213: -7126686333997065720
+    second: xm7_suppressor_39
+  - first:
+      213: -5276100265787239265
+    second: xm7_suppressor_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xm7_suppressor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 1930
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6634d51553427c0800000000000000
+      internalID: -4097091137426987357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_1
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 127
+        width: 633
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838045a898bafe910800000000000000
+      internalID: 1868900977601677368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 383
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af19759520ba5c30800000000000000
+      internalID: 4348982065647656868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 392
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4e1744f9184ea00800000000000000
+      internalID: 784894756117406951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 392
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ec07cb524348060800000000000000
+      internalID: 6954741061246832140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 374
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b559ef9d95cd74a60800000000000000
+      internalID: 7658331969834358107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_6
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 374
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7df14ba623cd8250800000000000000
+      internalID: 5948625253675695487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 357
+        width: 87
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e37c957f42c5aa90800000000000000
+      internalID: -7303217574179998743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 366
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfdb7e538a134eb0800000000000000
+      internalID: -4736913231535415357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 357
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183e4b5e2a1081520800000000000000
+      internalID: 2672888177994556289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 349
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfec9b1f5b2cecf60800000000000000
+      internalID: 8056590870112751357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 366
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a156bcac13e0cd5a0800000000000000
+      internalID: -6495300955556584166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 59
+        width: 634
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3468729fbe07f01b0800000000000000
+      internalID: -5688203645545904573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 306
+        width: 87
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b436e3b1ee5c7e0800000000000000
+      internalID: -1745727479757976692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 323
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a076dc85fcc9c2410800000000000000
+      internalID: 1453709194095847178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 340
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54240f736a385fc90800000000000000
+      internalID: -7136653284572380603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_16
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 306
+        width: 87
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a072528d035513310800000000000000
+      internalID: 1382980228852557578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 340
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f05df00c3705f680800000000000000
+      internalID: -8722057149037063944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_18
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 340
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f43d2851e242c80800000000000000
+      internalID: -8348497139313979578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 289
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5495285a639965fb0800000000000000
+      internalID: -4659368304484132539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 289
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceceba687f96bce0800000000000000
+      internalID: -1389748095461437753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 298
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716b6d8798c1107b0800000000000000
+      internalID: -5259891513028594153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_22
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 315
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d9f75a985b0530800000000000000
+      internalID: 3822246128678196561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 281
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f625e06047489fe30800000000000000
+      internalID: 4537803733405160047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 289
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d43907e1f817210800000000000000
+      internalID: 1329000725951499566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 86
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915f7f156890957f0800000000000000
+      internalID: -623456600908630759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 221
+        width: 138
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80f089fb375cafa0800000000000000
+      internalID: -5788155505977266037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 221
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1a112f33f91400800000000000000
+      internalID: 295534703033326588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_28
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 255
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308f2375631f3aee0800000000000000
+      internalID: -1250891055785379837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 246
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6ca1a98f2f3fe80800000000000000
+      internalID: -8145900151431837991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_30
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 246
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d77d05abf6e34ff0800000000000000
+      internalID: -52944802118010920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_31
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 238
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8ac08483fabbad0800000000000000
+      internalID: -2685360096534550361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_32
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 170
+        width: 189
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf62a8f4df16052d0800000000000000
+      internalID: -3292023587018758405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_33
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 212
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ef1f5e8fea37ad0800000000000000
+      internalID: -2705626567086572027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_34
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 212
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8156632e826c1bc70800000000000000
+      internalID: 8985180610477057304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_35
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 204
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b93114de8fadbd00800000000000000
+      internalID: 990140521069492663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 178
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff616e0500367f0800000000000000
+      internalID: -620651976189345820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 170
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90b7f8e7d09a57d0800000000000000
+      internalID: -2928869350650171236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec12b61751b595e0800000000000000
+      internalID: -1903420279893123859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_39
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 187
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a597cb98ce81d90800000000000000
+      internalID: -7126686333997065720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xm7_suppressor_40
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 144
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94586223c687c6b0800000000000000
+      internalID: -5276100265787239265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      xm7_suppressor_0: -4097091137426987357
+      xm7_suppressor_1: 1868900977601677368
+      xm7_suppressor_10: 8056590870112751357
+      xm7_suppressor_11: -6495300955556584166
+      xm7_suppressor_12: -5688203645545904573
+      xm7_suppressor_13: -1745727479757976692
+      xm7_suppressor_14: 1453709194095847178
+      xm7_suppressor_15: -7136653284572380603
+      xm7_suppressor_16: 1382980228852557578
+      xm7_suppressor_17: -8722057149037063944
+      xm7_suppressor_18: -8348497139313979578
+      xm7_suppressor_19: -4659368304484132539
+      xm7_suppressor_2: 4348982065647656868
+      xm7_suppressor_20: -1389748095461437753
+      xm7_suppressor_21: -5259891513028594153
+      xm7_suppressor_22: 3822246128678196561
+      xm7_suppressor_23: 4537803733405160047
+      xm7_suppressor_24: 1329000725951499566
+      xm7_suppressor_25: -623456600908630759
+      xm7_suppressor_26: -5788155505977266037
+      xm7_suppressor_27: 295534703033326588
+      xm7_suppressor_28: -1250891055785379837
+      xm7_suppressor_29: -8145900151431837991
+      xm7_suppressor_3: 784894756117406951
+      xm7_suppressor_30: -52944802118010920
+      xm7_suppressor_31: -2685360096534550361
+      xm7_suppressor_32: -3292023587018758405
+      xm7_suppressor_33: -2705626567086572027
+      xm7_suppressor_34: 8985180610477057304
+      xm7_suppressor_35: 990140521069492663
+      xm7_suppressor_36: -620651976189345820
+      xm7_suppressor_37: -2928869350650171236
+      xm7_suppressor_38: -1903420279893123859
+      xm7_suppressor_39: -7126686333997065720
+      xm7_suppressor_4: 6954741061246832140
+      xm7_suppressor_40: -5276100265787239265
+      xm7_suppressor_5: 7658331969834358107
+      xm7_suppressor_6: 5948625253675695487
+      xm7_suppressor_7: -7303217574179998743
+      xm7_suppressor_8: -4736913231535415357
+      xm7_suppressor_9: 2672888177994556289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

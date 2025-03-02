@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: c6644a3398e95c04785a07bcb5780cc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8088864616298596821
+    second: smaw_0
+  - first:
+      213: 7626903463269435275
+    second: smaw_1
+  - first:
+      213: -9201001881745290575
+    second: smaw_2
+  - first:
+      213: -9058297351791979758
+    second: smaw_3
+  - first:
+      213: 1752223745892984437
+    second: smaw_4
+  - first:
+      213: 700637885772493180
+    second: smaw_5
+  - first:
+      213: 459543531111729030
+    second: smaw_6
+  - first:
+      213: 8164086731816979575
+    second: smaw_7
+  - first:
+      213: -7961843068380036232
+    second: smaw_8
+  - first:
+      213: 3859682113786327115
+    second: smaw_9
+  - first:
+      213: 7896069160796977637
+    second: smaw_10
+  - first:
+      213: 4689309558665623097
+    second: smaw_11
+  - first:
+      213: -4168505945819847517
+    second: smaw_12
+  - first:
+      213: 1855147198308087792
+    second: smaw_13
+  - first:
+      213: -2248532382935674821
+    second: smaw_14
+  - first:
+      213: -5266425713578413493
+    second: smaw_15
+  - first:
+      213: -2081922423285519182
+    second: smaw_16
+  - first:
+      213: -8117975335309962050
+    second: smaw_17
+  - first:
+      213: -5230246362010739543
+    second: smaw_18
+  - first:
+      213: -3572356462510295797
+    second: smaw_19
+  - first:
+      213: -6436811838447988297
+    second: smaw_20
+  - first:
+      213: 7563854063625502871
+    second: smaw_21
+  - first:
+      213: -285209557644593164
+    second: smaw_22
+  - first:
+      213: -713153019071940660
+    second: smaw_23
+  - first:
+      213: 2455796035975626709
+    second: smaw_24
+  - first:
+      213: 2375950229141031825
+    second: smaw_25
+  - first:
+      213: 7955801387512745891
+    second: smaw_26
+  - first:
+      213: 3692113164125574950
+    second: smaw_27
+  - first:
+      213: 3999074782533377784
+    second: smaw_28
+  - first:
+      213: 408418853757841092
+    second: smaw_29
+  - first:
+      213: -3179037123022872470
+    second: smaw_30
+  - first:
+      213: 3521800485393687517
+    second: smaw_31
+  - first:
+      213: -7703248167698636907
+    second: smaw_32
+  - first:
+      213: 5105657310425856598
+    second: smaw_33
+  - first:
+      213: 453016366733303549
+    second: smaw_34
+  - first:
+      213: 1048818338395429331
+    second: smaw_35
+  - first:
+      213: -5697729355041755107
+    second: smaw_36
+  - first:
+      213: -3140292208067342915
+    second: smaw_37
+  - first:
+      213: -1998829584881972700
+    second: smaw_38
+  - first:
+      213: 2598615114218588725
+    second: smaw_39
+  - first:
+      213: -2676971206176230126
+    second: smaw_40
+  - first:
+      213: 543433621925023995
+    second: smaw_41
+  - first:
+      213: 1833000762744888973
+    second: smaw_42
+  - first:
+      213: -4362244520975608555
+    second: smaw_43
+  - first:
+      213: 799710786927399211
+    second: smaw_44
+  - first:
+      213: -6492663165114396606
+    second: smaw_45
+  - first:
+      213: -9129521422527691894
+    second: smaw_46
+  - first:
+      213: 5768134290782665724
+    second: smaw_47
+  - first:
+      213: 492342760224645049
+    second: smaw_48
+  - first:
+      213: -1080968612334540132
+    second: smaw_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smaw_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 1926
+        height: 1585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d944ba038b614070800000000000000
+      internalID: 8088864616298596821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_1
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 443
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b870f507a4438d960800000000000000
+      internalID: 7626903463269435275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_2
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 402
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba0fdc99897f4080800000000000000
+      internalID: -9201001881745290575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_3
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 409
+        width: 97
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213d39c2d867a4280800000000000000
+      internalID: -9058297351791979758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_4
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 361
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576a4f49636215810800000000000000
+      internalID: 1752223745892984437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_5
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 374
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7176a9e17a29b900800000000000000
+      internalID: 700637885772493180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_6
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 381
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6874eb22860a06600800000000000000
+      internalID: 459543531111729030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_7
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 361
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c4e6d90a9ac4170800000000000000
+      internalID: 8164086731816979575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_8
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 354
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8734dc7b9e9d18190800000000000000
+      internalID: -7961843068380036232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_9
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 340
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b92ade68509530800000000000000
+      internalID: 3859682113786327115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_10
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 340
+        width: 97
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9783b0119749d60800000000000000
+      internalID: 7896069160796977637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_11
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 245
+        width: 29
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936bb16d236c31140800000000000000
+      internalID: 4689309558665623097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_12
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 299
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4ed4f8ded7626c0800000000000000
+      internalID: -4168505945819847517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_13
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 313
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7f6314c8eceb910800000000000000
+      internalID: 1855147198308087792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_14
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 313
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30182106bb9bc0e0800000000000000
+      internalID: -2248532382935674821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_15
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 320
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42fc2a57b5e9e6b0800000000000000
+      internalID: -5266425713578413493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_16
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 306
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc652626968b13e0800000000000000
+      internalID: -2081922423285519182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_17
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 299
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb497738178275f80800000000000000
+      internalID: -8117975335309962050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_18
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 293
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac129015ae6a67b0800000000000000
+      internalID: -5230246362010739543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_19
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 293
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05b00979b07c6ec0800000000000000
+      internalID: -3572356462510295797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_20
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 286
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b157439cb9dba6a0800000000000000
+      internalID: -6436811838447988297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_21
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 286
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7900b43223538f860800000000000000
+      internalID: 7563854063625502871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_22
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 265
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73c0e1b6bba0cf0800000000000000
+      internalID: -285209557644593164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_23
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 272
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc738bb8b1f5a16f0800000000000000
+      internalID: -713153019071940660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_24
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 252
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfb32dbb7db41220800000000000000
+      internalID: 2455796035975626709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_25
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 265
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b85f3252219f020800000000000000
+      internalID: 2375950229141031825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_26
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 245
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afc146d53fa86e60800000000000000
+      internalID: 7955801387512745891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_27
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 252
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6279f327c550d3330800000000000000
+      internalID: 3692113164125574950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_28
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fedf13a3519f7730800000000000000
+      internalID: 3999074782533377784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_29
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 238
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceeec998cefaa500800000000000000
+      internalID: 408418853757841092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_30
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 238
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a602172749ac1e3d0800000000000000
+      internalID: -3179037123022872470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_31
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd360b5d1e2ffd030800000000000000
+      internalID: 3521800485393687517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_32
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 211
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fd4a3ea90981590800000000000000
+      internalID: -7703248167698636907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_33
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 217
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a3fccd540fad640800000000000000
+      internalID: 5105657310425856598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_34
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 217
+        width: 97
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe93904cff694600800000000000000
+      internalID: 453016366733303549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_35
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 204
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d999fdc8b62e8e00800000000000000
+      internalID: 1048818338395429331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_36
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 197
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10bb66e6599de0b0800000000000000
+      internalID: -5697729355041755107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_37
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 183
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd083fefd07b64d0800000000000000
+      internalID: -3140292208067342915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_38
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 197
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a8192351bb244e0800000000000000
+      internalID: -1998829584881972700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_39
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 190
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ac5f6ada2201420800000000000000
+      internalID: 2598615114218588725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_40
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 170
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215bae50fdc79dad0800000000000000
+      internalID: -2676971206176230126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_41
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf058d9fff9aa8700800000000000000
+      internalID: 543433621925023995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_42
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 156
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8edd686b70207910800000000000000
+      internalID: 1833000762744888973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_43
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 163
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515dad768b13673c0800000000000000
+      internalID: -4362244520975608555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_44
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b211bd149b4291b00800000000000000
+      internalID: 799710786927399211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_45
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 142
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240d71d304d65e5a0800000000000000
+      internalID: -6492663165114396606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_46
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 136
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a830be0f2ac6d4180800000000000000
+      internalID: -9129521422527691894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_47
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 115
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbb9da93978c0050800000000000000
+      internalID: 5768134290782665724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_48
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 122
+        width: 97
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfdce2c12725d600800000000000000
+      internalID: 492342760224645049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smaw_49
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 95
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ae37836c0aff0f0800000000000000
+      internalID: -1080968612334540132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      smaw_0: 8088864616298596821
+      smaw_1: 7626903463269435275
+      smaw_10: 7896069160796977637
+      smaw_11: 4689309558665623097
+      smaw_12: -4168505945819847517
+      smaw_13: 1855147198308087792
+      smaw_14: -2248532382935674821
+      smaw_15: -5266425713578413493
+      smaw_16: -2081922423285519182
+      smaw_17: -8117975335309962050
+      smaw_18: -5230246362010739543
+      smaw_19: -3572356462510295797
+      smaw_2: -9201001881745290575
+      smaw_20: -6436811838447988297
+      smaw_21: 7563854063625502871
+      smaw_22: -285209557644593164
+      smaw_23: -713153019071940660
+      smaw_24: 2455796035975626709
+      smaw_25: 2375950229141031825
+      smaw_26: 7955801387512745891
+      smaw_27: 3692113164125574950
+      smaw_28: 3999074782533377784
+      smaw_29: 408418853757841092
+      smaw_3: -9058297351791979758
+      smaw_30: -3179037123022872470
+      smaw_31: 3521800485393687517
+      smaw_32: -7703248167698636907
+      smaw_33: 5105657310425856598
+      smaw_34: 453016366733303549
+      smaw_35: 1048818338395429331
+      smaw_36: -5697729355041755107
+      smaw_37: -3140292208067342915
+      smaw_38: -1998829584881972700
+      smaw_39: 2598615114218588725
+      smaw_4: 1752223745892984437
+      smaw_40: -2676971206176230126
+      smaw_41: 543433621925023995
+      smaw_42: 1833000762744888973
+      smaw_43: -4362244520975608555
+      smaw_44: 799710786927399211
+      smaw_45: -6492663165114396606
+      smaw_46: -9129521422527691894
+      smaw_47: 5768134290782665724
+      smaw_48: 492342760224645049
+      smaw_49: -1080968612334540132
+      smaw_5: 700637885772493180
+      smaw_6: 459543531111729030
+      smaw_7: 8164086731816979575
+      smaw_8: -7961843068380036232
+      smaw_9: 3859682113786327115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

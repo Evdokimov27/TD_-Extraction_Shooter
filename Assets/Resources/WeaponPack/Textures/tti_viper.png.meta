@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 181ae1acfa47485489907c0b0e4688a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2260477795176722979
+    second: tti_viper_0
+  - first:
+      213: -1541048960616837662
+    second: tti_viper_1
+  - first:
+      213: -3847249756805116970
+    second: tti_viper_2
+  - first:
+      213: -4985171196571921617
+    second: tti_viper_3
+  - first:
+      213: 5363287931991648451
+    second: tti_viper_4
+  - first:
+      213: 668677143504495864
+    second: tti_viper_5
+  - first:
+      213: 2636412152154255131
+    second: tti_viper_6
+  - first:
+      213: -5976513638172546162
+    second: tti_viper_7
+  - first:
+      213: -7372378943262836048
+    second: tti_viper_8
+  - first:
+      213: 6806888309794901008
+    second: tti_viper_9
+  - first:
+      213: -7278123631147003247
+    second: tti_viper_10
+  - first:
+      213: -4320383378279496040
+    second: tti_viper_11
+  - first:
+      213: 2955437058626258882
+    second: tti_viper_12
+  - first:
+      213: -9206599006109965654
+    second: tti_viper_13
+  - first:
+      213: -2826882574662710035
+    second: tti_viper_14
+  - first:
+      213: 6139887090670423572
+    second: tti_viper_15
+  - first:
+      213: -3498064501572985934
+    second: tti_viper_16
+  - first:
+      213: 8039147470080488208
+    second: tti_viper_17
+  - first:
+      213: 5976008640697077988
+    second: tti_viper_18
+  - first:
+      213: -429052744294967332
+    second: tti_viper_19
+  - first:
+      213: -5015554874248988072
+    second: tti_viper_20
+  - first:
+      213: -3857629247954593574
+    second: tti_viper_21
+  - first:
+      213: 667941776645731978
+    second: tti_viper_22
+  - first:
+      213: 9052586092007970965
+    second: tti_viper_23
+  - first:
+      213: 1277763508373704208
+    second: tti_viper_24
+  - first:
+      213: 2120050557722794084
+    second: tti_viper_25
+  - first:
+      213: 6148641043182363102
+    second: tti_viper_26
+  - first:
+      213: 1132950109770567363
+    second: tti_viper_27
+  - first:
+      213: 5685119084443918985
+    second: tti_viper_28
+  - first:
+      213: -2807514372128572325
+    second: tti_viper_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tti_viper_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 1281
+        height: 1127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322ba240494de5f10800000000000000
+      internalID: 2260477795176722979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_1
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1868
+        width: 118
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edc2f892281d9ae0800000000000000
+      internalID: -1541048960616837662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_2
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1842
+        width: 118
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db4c63dab2db9ac0800000000000000
+      internalID: -3847249756805116970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_3
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1804
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2352d3953d11dab0800000000000000
+      internalID: -4985171196571921617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_4
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1804
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8608e45f93e6a40800000000000000
+      internalID: 5363287931991648451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_5
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1778
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f42208b15e974900800000000000000
+      internalID: 668677143504495864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_6
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1778
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f6da252ea669420800000000000000
+      internalID: 2636412152154255131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_7
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1740
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ba271d2882f0da0800000000000000
+      internalID: -5976513638172546162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_8
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1740
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0babf31696c00b990800000000000000
+      internalID: -7372378943262836048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_9
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1509
+        width: 412
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c85137adce67e50800000000000000
+      internalID: 6806888309794901008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_10
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1241
+        width: 15
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1925b1e5e19eefa90800000000000000
+      internalID: -7278123631147003247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_11
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1241
+        width: 14
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8960624353aea04c0800000000000000
+      internalID: -4320383378279496040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_12
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1241
+        width: 15
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c78173a852d30920800000000000000
+      internalID: 2955437058626258882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_13
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1241
+        width: 15
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2e95b8bf69b3080800000000000000
+      internalID: -9206599006109965654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_14
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1241
+        width: 15
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deccc7b9645e4c8d0800000000000000
+      internalID: -2826882574662710035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_15
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1241
+        width: 15
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eca6847c2453550800000000000000
+      internalID: 6139887090670423572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_16
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1241
+        width: 14
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb965e8ed0647fc0800000000000000
+      internalID: -3498064501572985934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_17
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1189
+        width: 117
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013b023e70ac09f60800000000000000
+      internalID: 8039147470080488208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_18
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1151
+        width: 117
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e01a6b423c0fe250800000000000000
+      internalID: 5976008640697077988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_19
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1113
+        width: 117
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd754626dc2bb0af0800000000000000
+      internalID: -429052744294967332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_20
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 908
+        width: 220
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85af8e85a6b256ab0800000000000000
+      internalID: -5015554874248988072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_21
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 434
+        width: 655
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8528833a2f67ac0800000000000000
+      internalID: -3857629247954593574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_22
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 793
+        width: 423
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86bc97c181054900800000000000000
+      internalID: 667941776645731978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 1102
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598d6c8861f31ad70800000000000000
+      internalID: 9052586092007970965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_24
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 114
+        width: 412
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e429714278bb110800000000000000
+      internalID: 1277763508373704208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_25
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 50
+        width: 642
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4689feeefbeeb6d10800000000000000
+      internalID: 2120050557722794084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_26
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 76
+        width: 41
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1a54ea37c545550800000000000000
+      internalID: 6148641043182363102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_27
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 114
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce4d194f1c09bf00800000000000000
+      internalID: 1132950109770567363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_28
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 114
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982e21eafa995ee40800000000000000
+      internalID: 5685119084443918985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tti_viper_29
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 76
+        width: 92
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cf87bad84b909d0800000000000000
+      internalID: -2807514372128572325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tti_viper_0: 2260477795176722979
+      tti_viper_1: -1541048960616837662
+      tti_viper_10: -7278123631147003247
+      tti_viper_11: -4320383378279496040
+      tti_viper_12: 2955437058626258882
+      tti_viper_13: -9206599006109965654
+      tti_viper_14: -2826882574662710035
+      tti_viper_15: 6139887090670423572
+      tti_viper_16: -3498064501572985934
+      tti_viper_17: 8039147470080488208
+      tti_viper_18: 5976008640697077988
+      tti_viper_19: -429052744294967332
+      tti_viper_2: -3847249756805116970
+      tti_viper_20: -5015554874248988072
+      tti_viper_21: -3857629247954593574
+      tti_viper_22: 667941776645731978
+      tti_viper_23: 9052586092007970965
+      tti_viper_24: 1277763508373704208
+      tti_viper_25: 2120050557722794084
+      tti_viper_26: 6148641043182363102
+      tti_viper_27: 1132950109770567363
+      tti_viper_28: 5685119084443918985
+      tti_viper_29: -2807514372128572325
+      tti_viper_3: -4985171196571921617
+      tti_viper_4: 5363287931991648451
+      tti_viper_5: 668677143504495864
+      tti_viper_6: 2636412152154255131
+      tti_viper_7: -5976513638172546162
+      tti_viper_8: -7372378943262836048
+      tti_viper_9: 6806888309794901008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

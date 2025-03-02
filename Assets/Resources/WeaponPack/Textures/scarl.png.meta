@@ -1,0 +1,2678 @@
+fileFormatVersion: 2
+guid: 8b4bcf0b2c0fe82478b0d6efaf028553
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5529662872805280013
+    second: scarl_0
+  - first:
+      213: -5484347253351994652
+    second: scarl_1
+  - first:
+      213: -5461159363644497481
+    second: scarl_2
+  - first:
+      213: -8709736361782148026
+    second: scarl_3
+  - first:
+      213: 2904684805066342497
+    second: scarl_4
+  - first:
+      213: 5191863013540359106
+    second: scarl_5
+  - first:
+      213: 9003072596147985952
+    second: scarl_6
+  - first:
+      213: -8720878015464533256
+    second: scarl_7
+  - first:
+      213: -6372421952252976347
+    second: scarl_8
+  - first:
+      213: -3813618388353508580
+    second: scarl_9
+  - first:
+      213: 5508341763911891017
+    second: scarl_10
+  - first:
+      213: 961647547042648773
+    second: scarl_11
+  - first:
+      213: 8801033394867846523
+    second: scarl_12
+  - first:
+      213: -7051230597496338772
+    second: scarl_13
+  - first:
+      213: 42202448730208049
+    second: scarl_14
+  - first:
+      213: -1390845146341531879
+    second: scarl_15
+  - first:
+      213: -4848665594912291733
+    second: scarl_16
+  - first:
+      213: 8976377707017480737
+    second: scarl_17
+  - first:
+      213: -8256865056924737291
+    second: scarl_18
+  - first:
+      213: -284685387854609495
+    second: scarl_19
+  - first:
+      213: 7298378014903956504
+    second: scarl_20
+  - first:
+      213: 512933998427080912
+    second: scarl_21
+  - first:
+      213: 4877665458026882656
+    second: scarl_22
+  - first:
+      213: 4353150064109595280
+    second: scarl_23
+  - first:
+      213: 6041811644550735025
+    second: scarl_24
+  - first:
+      213: 1338072862580195681
+    second: scarl_25
+  - first:
+      213: -2211042536066875070
+    second: scarl_26
+  - first:
+      213: 967204238719118293
+    second: scarl_27
+  - first:
+      213: 5069842380265904245
+    second: scarl_28
+  - first:
+      213: -1228645433417851112
+    second: scarl_29
+  - first:
+      213: 5934152028580533411
+    second: scarl_30
+  - first:
+      213: 6901345639265042258
+    second: scarl_31
+  - first:
+      213: 4416312930570790585
+    second: scarl_32
+  - first:
+      213: -1484146978128908131
+    second: scarl_33
+  - first:
+      213: 7673558867168483233
+    second: scarl_34
+  - first:
+      213: -5893150477813450362
+    second: scarl_35
+  - first:
+      213: -2756727593118259932
+    second: scarl_36
+  - first:
+      213: -99829365658609283
+    second: scarl_37
+  - first:
+      213: 6615318196581025097
+    second: scarl_38
+  - first:
+      213: -4698812298399656504
+    second: scarl_39
+  - first:
+      213: 6318409449932630186
+    second: scarl_40
+  - first:
+      213: 4532855797693361771
+    second: scarl_41
+  - first:
+      213: -3512418686531109116
+    second: scarl_42
+  - first:
+      213: 8254199449400737425
+    second: scarl_43
+  - first:
+      213: 7750480427177655810
+    second: scarl_44
+  - first:
+      213: -8044104362876247943
+    second: scarl_45
+  - first:
+      213: 6721063506528039161
+    second: scarl_46
+  - first:
+      213: 1386067439180451913
+    second: scarl_47
+  - first:
+      213: 1666698462965576578
+    second: scarl_48
+  - first:
+      213: -7374807622716314970
+    second: scarl_49
+  - first:
+      213: 249969358803848868
+    second: scarl_50
+  - first:
+      213: -9118913306260526662
+    second: scarl_51
+  - first:
+      213: -1731632909909614234
+    second: scarl_52
+  - first:
+      213: 4162577119826513060
+    second: scarl_53
+  - first:
+      213: 1401350497038782350
+    second: scarl_54
+  - first:
+      213: -3078970743978044116
+    second: scarl_55
+  - first:
+      213: -3110771823635106383
+    second: scarl_56
+  - first:
+      213: -7951633806231077845
+    second: scarl_57
+  - first:
+      213: 8441355620561529338
+    second: scarl_58
+  - first:
+      213: 3915313778558307428
+    second: scarl_59
+  - first:
+      213: 5085726240710004064
+    second: scarl_60
+  - first:
+      213: 1323267544826223299
+    second: scarl_61
+  - first:
+      213: -1081308216089878066
+    second: scarl_62
+  - first:
+      213: 8942994199808852172
+    second: scarl_63
+  - first:
+      213: 221215490053726999
+    second: scarl_64
+  - first:
+      213: -2613899978286888142
+    second: scarl_65
+  - first:
+      213: -4806703474863284517
+    second: scarl_66
+  - first:
+      213: 5133983094898810256
+    second: scarl_67
+  - first:
+      213: -7251313136433771314
+    second: scarl_68
+  - first:
+      213: -17839347564696277
+    second: scarl_69
+  - first:
+      213: -832402961957702057
+    second: scarl_70
+  - first:
+      213: -7015548674140166169
+    second: scarl_71
+  - first:
+      213: 26550087749329484
+    second: scarl_72
+  - first:
+      213: 3177147279802206246
+    second: scarl_73
+  - first:
+      213: -8012385451083424920
+    second: scarl_74
+  - first:
+      213: 6051768773915997764
+    second: scarl_75
+  - first:
+      213: -361276360302705859
+    second: scarl_76
+  - first:
+      213: 3594586101906630417
+    second: scarl_77
+  - first:
+      213: -4020815894085306352
+    second: scarl_78
+  - first:
+      213: 4235769531367302902
+    second: scarl_79
+  - first:
+      213: 8040742547037066321
+    second: scarl_80
+  - first:
+      213: 1450107516406119433
+    second: scarl_81
+  - first:
+      213: -6700803334547700629
+    second: scarl_82
+  - first:
+      213: 7051999410140630147
+    second: scarl_83
+  - first:
+      213: -7613178097719302393
+    second: scarl_84
+  - first:
+      213: -7033767704952472027
+    second: scarl_85
+  - first:
+      213: -2685900175850059651
+    second: scarl_86
+  - first:
+      213: -2196504369239911582
+    second: scarl_87
+  - first:
+      213: 7277015260172217880
+    second: scarl_88
+  - first:
+      213: -8100359388493353769
+    second: scarl_89
+  - first:
+      213: -7664341933190012087
+    second: scarl_90
+  - first:
+      213: 5926872623285639230
+    second: scarl_91
+  - first:
+      213: -1748615813070453635
+    second: scarl_92
+  - first:
+      213: -2782123304018003036
+    second: scarl_93
+  - first:
+      213: -5609708590947459248
+    second: scarl_94
+  - first:
+      213: 5912196981883481026
+    second: scarl_95
+  - first:
+      213: 5104457074943562581
+    second: scarl_96
+  - first:
+      213: 5081765663664915030
+    second: scarl_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scarl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1203
+        width: 972
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09893dd51f4dbc40800000000000000
+      internalID: 5529662872805280013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_1
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1973
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaa01bfa3fa3e3b0800000000000000
+      internalID: -5484347253351994652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_2
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1904
+        width: 264
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1eb244e701634b0800000000000000
+      internalID: -5461159363644497481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_3
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1900
+        width: 158
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6440ca4dcecc02780800000000000000
+      internalID: -8709736361782148026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_4
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1912
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604476c0738f4820800000000000000
+      internalID: 2904684805066342497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_5
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1924
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbef8437e33d0840800000000000000
+      internalID: 5191863013540359106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_6
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1777
+        width: 240
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e547c63d651fc70800000000000000
+      internalID: 9003072596147985952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_7
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1814
+        width: 174
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f219be66a739f680800000000000000
+      internalID: -8720878015464533256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_8
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1797
+        width: 101
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5236f093ffb9097a0800000000000000
+      internalID: -6372421952252976347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_9
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1781
+        width: 190
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b9a4df74e431bc0800000000000000
+      internalID: -3813618388353508580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_10
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1826
+        width: 158
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948ba6b56af817c40800000000000000
+      internalID: 5508341763911891017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_11
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1814
+        width: 158
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c25a985955785d00800000000000000
+      internalID: 961647547042648773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_12
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1826
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7db2752e3d832a70800000000000000
+      internalID: 8801033394867846523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_13
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1834
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca68dde612ff42e90800000000000000
+      internalID: -7051230597496338772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_14
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1609
+        width: 346
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137373d47eee59000800000000000000
+      internalID: 42202448730208049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_15
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1785
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f9cba55b9b2bce0800000000000000
+      internalID: -1390845146341531879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_16
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1777
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64489ca45416bcb0800000000000000
+      internalID: -4848665594912291733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_17
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1699
+        width: 141
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a238437ff729c70800000000000000
+      internalID: 8976377707017480737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_18
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1719
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f06aab3af8b96d80800000000000000
+      internalID: -8256865056924737291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_19
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1740
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a38e28e5289c0cf0800000000000000
+      internalID: -284685387854609495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_20
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1658
+        width: 109
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814fed6d22c094560800000000000000
+      internalID: 7298378014903956504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_21
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1609
+        width: 215
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8877101ce4e1700800000000000000
+      internalID: 512933998427080912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_22
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1568
+        width: 215
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066a2ee14e2f0b340800000000000000
+      internalID: 4877665458026882656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_23
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1654
+        width: 149
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aa8395bee796c30800000000000000
+      internalID: 4353150064109595280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_24
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1576
+        width: 223
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4e3490ea3d8d350800000000000000
+      internalID: 6041811644550735025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_25
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1588
+        width: 141
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161cea9dd2ac19210800000000000000
+      internalID: 1338072862580195681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_26
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1605
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241847e278cc051e0800000000000000
+      internalID: -2211042536066875070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1568
+        width: 157
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbea1271233c6d00800000000000000
+      internalID: 967204238719118293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_28
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1527
+        width: 166
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57858fe98c2bb5640800000000000000
+      internalID: 5069842380265904245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_29
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1560
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f193aec79f2fee0800000000000000
+      internalID: -1228645433417851112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_30
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1535
+        width: 150
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4d4ba54d75a5250800000000000000
+      internalID: 5934152028580533411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_31
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1494
+        width: 223
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f75944b4186cf50800000000000000
+      internalID: 6901345639265042258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_32
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1457
+        width: 231
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6e2a33635e94d30800000000000000
+      internalID: 4416312930570790585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_33
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1502
+        width: 117
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90382ecf20476be0800000000000000
+      internalID: -1484146978128908131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_34
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1416
+        width: 133
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a750a82225fd7a60800000000000000
+      internalID: 7673558867168483233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_35
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1469
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689710a1dd2573ea0800000000000000
+      internalID: -5893150477813450362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_36
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1486
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4252bad1cd22eb9d0800000000000000
+      internalID: -2756727593118259932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_37
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1363
+        width: 231
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7914c988b55d9ef0800000000000000
+      internalID: -99829365658609283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_38
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1449
+        width: 67
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945c36fa9d45ecb50800000000000000
+      internalID: 6615318196581025097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_39
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1379
+        width: 108
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5d6a72c177aceb0800000000000000
+      internalID: -4698812298399656504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_40
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1396
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8a4b81bef7fa750800000000000000
+      internalID: 6318409449932630186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_41
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1285
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e2597f450f7ee30800000000000000
+      internalID: 4532855797693361771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_42
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1338
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f7ede60d1614fc0800000000000000
+      internalID: -3512418686531109116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_43
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1256
+        width: 239
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e71c6aaaecc8270800000000000000
+      internalID: 8254199449400737425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_44
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1310
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eba8c72ec3f8b60800000000000000
+      internalID: 7750480427177655810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_45
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1265
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970679293b99d5090800000000000000
+      internalID: -8044104362876247943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_46
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1211
+        width: 150
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0f17346a3064d50800000000000000
+      internalID: 6721063506528039161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_47
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1166
+        width: 230
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94016130efc4c3310800000000000000
+      internalID: 1386067439180451913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1109
+        width: 223
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283b0c8eb6d412710800000000000000
+      internalID: 1666698462965576578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_49
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1138
+        width: 149
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaa6216a8b67a990800000000000000
+      internalID: -7374807622716314970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1146
+        width: 149
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae4c34bec1187300800000000000000
+      internalID: 249969358803848868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_51
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1203
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab922ca79ac137180800000000000000
+      internalID: -9118913306260526662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_52
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1220
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66126730b0108f7e0800000000000000
+      internalID: -1731632909909614234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_53
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1216
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac8d6116d174c930800000000000000
+      internalID: 4162577119826513060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_54
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1125
+        width: 149
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f40d53ad8927310800000000000000
+      internalID: 1401350497038782350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_55
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1203
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c255e53eb6c4545d0800000000000000
+      internalID: -3078970743978044116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_56
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1183
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b57fea028154d4d0800000000000000
+      internalID: -3110771823635106383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_57
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1117
+        width: 166
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cfb9bce2f16a190800000000000000
+      internalID: -7951633806231077845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_58
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af921527638b52570800000000000000
+      internalID: 8441355620561529338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1154
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c092b232df55630800000000000000
+      internalID: 3915313778558307428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_60
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1125
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d07621211249640800000000000000
+      internalID: 5085726240710004064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_61
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1125
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca9b2032d03d5210800000000000000
+      internalID: 1323267544826223299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_62
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 957
+        width: 240
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1604f08eb6ef0f0800000000000000
+      internalID: -1081308216089878066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_63
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1060
+        width: 149
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc04cfbb7d5eb1c70800000000000000
+      internalID: 8942994199808852172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_64
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1129
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713677fe05ae11300800000000000000
+      internalID: 221215490053726999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_65
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1039
+        width: 174
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b0fcb91df89bbd0800000000000000
+      internalID: -2613899978286888142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_66
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1043
+        width: 157
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde532818a82b4db0800000000000000
+      internalID: -4806703474863284517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_67
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1043
+        width: 149
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ddd4e7c629f3740800000000000000
+      internalID: 5133983094898810256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_68
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1080
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecccdbb1f192e5b90800000000000000
+      internalID: -7251313136433771314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_69
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 921
+        width: 395
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2da169353f90cff0800000000000000
+      internalID: -17839347564696277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_70
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1076
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75637869ae5b274f0800000000000000
+      internalID: -832402961957702057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_71
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1076
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7a96d96a3c3ae90800000000000000
+      internalID: -7015548674140166169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 798
+        width: 404
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42ed050a235e5000800000000000000
+      internalID: 26550087749329484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_73
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 925
+        width: 174
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62885b32e9e771c20800000000000000
+      internalID: 3177147279802206246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_74
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1007
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b1aa832e94ec090800000000000000
+      internalID: -8012385451083424920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_75
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 986
+        width: 109
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4467010e2a33cf350800000000000000
+      internalID: 6051768773915997764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_76
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 888
+        width: 191
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33496e701d7cfaf0800000000000000
+      internalID: -361276360302705859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_77
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 839
+        width: 174
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11763b6c30982e130800000000000000
+      internalID: 3594586101906630417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_78
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 880
+        width: 190
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018fccd5f313338c0800000000000000
+      internalID: -4020815894085306352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_79
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 888
+        width: 174
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6229b52f978ca30800000000000000
+      internalID: 4235769531367302902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_80
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 884
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154938eaeb4769f60800000000000000
+      internalID: 8040742547037066321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_81
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 925
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cb2896a11df1410800000000000000
+      internalID: 1450107516406119433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_82
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 867
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64088e9ed6f103a0800000000000000
+      internalID: -6700803334547700629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_83
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 769
+        width: 190
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c42b5b91cbdd160800000000000000
+      internalID: 7051999410140630147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_84
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 790
+        width: 174
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70728a14bde885690800000000000000
+      internalID: -7613178097719302393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_85
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 822
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e71b1f989036e90800000000000000
+      internalID: -7033767704952472027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_86
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 855
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d784c444504c9bad0800000000000000
+      internalID: -2685900175850059651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_87
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 814
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2639cdbe9e27481e0800000000000000
+      internalID: -2196504369239911582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_88
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 822
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e69a7e2d62df460800000000000000
+      internalID: 7277015260172217880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_89
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 785
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc6adfbd0eb59f80800000000000000
+      internalID: -8100359388493353769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_90
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 773
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94324138e99c2a590800000000000000
+      internalID: -7664341933190012087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_91
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 798
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e389debbf3b704250800000000000000
+      internalID: 5926872623285639230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_92
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 683
+        width: 174
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d740e4dbe2babb7e0800000000000000
+      internalID: -1748615813070453635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_93
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 753
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abbba66899e369d0800000000000000
+      internalID: -2782123304018003036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_94
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 765
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f9e1f02cf4622b0800000000000000
+      internalID: -5609708590947459248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_95
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 761
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb2d43b4d75c0250800000000000000
+      internalID: 5912196981883481026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_96
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 720
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5539d334aaca6d640800000000000000
+      internalID: 5104457074943562581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarl_97
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 650
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652468e52fe068640800000000000000
+      internalID: 5081765663664915030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scarl_0: 5529662872805280013
+      scarl_1: -5484347253351994652
+      scarl_10: 5508341763911891017
+      scarl_11: 961647547042648773
+      scarl_12: 8801033394867846523
+      scarl_13: -7051230597496338772
+      scarl_14: 42202448730208049
+      scarl_15: -1390845146341531879
+      scarl_16: -4848665594912291733
+      scarl_17: 8976377707017480737
+      scarl_18: -8256865056924737291
+      scarl_19: -284685387854609495
+      scarl_2: -5461159363644497481
+      scarl_20: 7298378014903956504
+      scarl_21: 512933998427080912
+      scarl_22: 4877665458026882656
+      scarl_23: 4353150064109595280
+      scarl_24: 6041811644550735025
+      scarl_25: 1338072862580195681
+      scarl_26: -2211042536066875070
+      scarl_27: 967204238719118293
+      scarl_28: 5069842380265904245
+      scarl_29: -1228645433417851112
+      scarl_3: -8709736361782148026
+      scarl_30: 5934152028580533411
+      scarl_31: 6901345639265042258
+      scarl_32: 4416312930570790585
+      scarl_33: -1484146978128908131
+      scarl_34: 7673558867168483233
+      scarl_35: -5893150477813450362
+      scarl_36: -2756727593118259932
+      scarl_37: -99829365658609283
+      scarl_38: 6615318196581025097
+      scarl_39: -4698812298399656504
+      scarl_4: 2904684805066342497
+      scarl_40: 6318409449932630186
+      scarl_41: 4532855797693361771
+      scarl_42: -3512418686531109116
+      scarl_43: 8254199449400737425
+      scarl_44: 7750480427177655810
+      scarl_45: -8044104362876247943
+      scarl_46: 6721063506528039161
+      scarl_47: 1386067439180451913
+      scarl_48: 1666698462965576578
+      scarl_49: -7374807622716314970
+      scarl_5: 5191863013540359106
+      scarl_50: 249969358803848868
+      scarl_51: -9118913306260526662
+      scarl_52: -1731632909909614234
+      scarl_53: 4162577119826513060
+      scarl_54: 1401350497038782350
+      scarl_55: -3078970743978044116
+      scarl_56: -3110771823635106383
+      scarl_57: -7951633806231077845
+      scarl_58: 8441355620561529338
+      scarl_59: 3915313778558307428
+      scarl_6: 9003072596147985952
+      scarl_60: 5085726240710004064
+      scarl_61: 1323267544826223299
+      scarl_62: -1081308216089878066
+      scarl_63: 8942994199808852172
+      scarl_64: 221215490053726999
+      scarl_65: -2613899978286888142
+      scarl_66: -4806703474863284517
+      scarl_67: 5133983094898810256
+      scarl_68: -7251313136433771314
+      scarl_69: -17839347564696277
+      scarl_7: -8720878015464533256
+      scarl_70: -832402961957702057
+      scarl_71: -7015548674140166169
+      scarl_72: 26550087749329484
+      scarl_73: 3177147279802206246
+      scarl_74: -8012385451083424920
+      scarl_75: 6051768773915997764
+      scarl_76: -361276360302705859
+      scarl_77: 3594586101906630417
+      scarl_78: -4020815894085306352
+      scarl_79: 4235769531367302902
+      scarl_8: -6372421952252976347
+      scarl_80: 8040742547037066321
+      scarl_81: 1450107516406119433
+      scarl_82: -6700803334547700629
+      scarl_83: 7051999410140630147
+      scarl_84: -7613178097719302393
+      scarl_85: -7033767704952472027
+      scarl_86: -2685900175850059651
+      scarl_87: -2196504369239911582
+      scarl_88: 7277015260172217880
+      scarl_89: -8100359388493353769
+      scarl_9: -3813618388353508580
+      scarl_90: -7664341933190012087
+      scarl_91: 5926872623285639230
+      scarl_92: -1748615813070453635
+      scarl_93: -2782123304018003036
+      scarl_94: -5609708590947459248
+      scarl_95: 5912196981883481026
+      scarl_96: 5104457074943562581
+      scarl_97: 5081765663664915030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

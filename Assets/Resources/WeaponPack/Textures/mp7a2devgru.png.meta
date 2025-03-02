@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: d9a25479c0ec5cb49987445a124042c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -227474183965051433
+    second: mp7a2devgru_0
+  - first:
+      213: 1240359505399727659
+    second: mp7a2devgru_1
+  - first:
+      213: -7364961449485526207
+    second: mp7a2devgru_2
+  - first:
+      213: 592569352170064952
+    second: mp7a2devgru_3
+  - first:
+      213: 527396341427811810
+    second: mp7a2devgru_4
+  - first:
+      213: -3077877604834544084
+    second: mp7a2devgru_5
+  - first:
+      213: -435112041902116355
+    second: mp7a2devgru_6
+  - first:
+      213: 2744326440367206568
+    second: mp7a2devgru_7
+  - first:
+      213: -3119041631230572551
+    second: mp7a2devgru_8
+  - first:
+      213: 47322119549560556
+    second: mp7a2devgru_9
+  - first:
+      213: -6896367860017633598
+    second: mp7a2devgru_10
+  - first:
+      213: -5916061964414397385
+    second: mp7a2devgru_11
+  - first:
+      213: 1781450378957195960
+    second: mp7a2devgru_12
+  - first:
+      213: 9198102690310815526
+    second: mp7a2devgru_13
+  - first:
+      213: -8985668591406235546
+    second: mp7a2devgru_14
+  - first:
+      213: 508406153799948542
+    second: mp7a2devgru_15
+  - first:
+      213: 7081340334961793933
+    second: mp7a2devgru_16
+  - first:
+      213: 5284361123373939780
+    second: mp7a2devgru_17
+  - first:
+      213: 8245627282297354056
+    second: mp7a2devgru_18
+  - first:
+      213: 7914257211298312416
+    second: mp7a2devgru_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mp7a2devgru_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 1749
+        height: 1517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5f0355f69d7dcf0800000000000000
+      internalID: -227474183965051433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_1
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1487
+        width: 303
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2641210664a63110800000000000000
+      internalID: 1240359505399727659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_2
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1405
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b18fa35966ac990800000000000000
+      internalID: -7364961449485526207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_3
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1200
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c41ecafaa393800800000000000000
+      internalID: 592569352170064952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_4
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1078
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e535a2ad20b15700800000000000000
+      internalID: 527396341427811810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_5
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1037
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26f4bd20ae2945d0800000000000000
+      internalID: -3077877604834544084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_6
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 914
+        width: 234
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1fde837eb26f9f0800000000000000
+      internalID: -435112041902116355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_7
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 641
+        width: 220
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0bcc18b5ec51620800000000000000
+      internalID: 2744326440367206568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_8
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 736
+        width: 193
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7c8da6920f6b4d0800000000000000
+      internalID: -3119041631230572551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 409
+        width: 357
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce625cd873f18a000800000000000000
+      internalID: 47322119549560556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 463
+        width: 357
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66a3748fd2b40a0800000000000000
+      internalID: -6896367860017633598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 409
+        width: 357
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73451edecfce5eda0800000000000000
+      internalID: -5916061964414397385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_12
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 463
+        width: 357
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba8abe5eabf8b810800000000000000
+      internalID: 1781450378957195960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_13
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 600
+        width: 111
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f7a87c9a936af70800000000000000
+      internalID: 9198102690310815526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 368
+        width: 385
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660c8d3360e7c4380800000000000000
+      internalID: -8985668591406235546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_15
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 327
+        width: 384
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef85ed604b83e0700800000000000000
+      internalID: 508406153799948542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_16
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 163
+        width: 658
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b1b0f1489f54260800000000000000
+      internalID: 7081340334961793933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_17
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 491
+        width: 248
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c7697a172d55940800000000000000
+      internalID: 5284361123373939780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 163
+        width: 385
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8477a97735a5e6270800000000000000
+      internalID: 8245627282297354056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp7a2devgru_19
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 231
+        width: 275
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0728c800715dd60800000000000000
+      internalID: 7914257211298312416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mp7a2devgru_0: -227474183965051433
+      mp7a2devgru_1: 1240359505399727659
+      mp7a2devgru_10: -6896367860017633598
+      mp7a2devgru_11: -5916061964414397385
+      mp7a2devgru_12: 1781450378957195960
+      mp7a2devgru_13: 9198102690310815526
+      mp7a2devgru_14: -8985668591406235546
+      mp7a2devgru_15: 508406153799948542
+      mp7a2devgru_16: 7081340334961793933
+      mp7a2devgru_17: 5284361123373939780
+      mp7a2devgru_18: 8245627282297354056
+      mp7a2devgru_19: 7914257211298312416
+      mp7a2devgru_2: -7364961449485526207
+      mp7a2devgru_3: 592569352170064952
+      mp7a2devgru_4: 527396341427811810
+      mp7a2devgru_5: -3077877604834544084
+      mp7a2devgru_6: -435112041902116355
+      mp7a2devgru_7: 2744326440367206568
+      mp7a2devgru_8: -3119041631230572551
+      mp7a2devgru_9: 47322119549560556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

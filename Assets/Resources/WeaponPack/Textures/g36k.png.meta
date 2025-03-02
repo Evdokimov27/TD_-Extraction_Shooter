@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 01e37efcb0b52a94da75f18c4a99769d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -944403520199309491
+    second: g36k_0
+  - first:
+      213: 4686673068506123875
+    second: g36k_1
+  - first:
+      213: -3111731535914687122
+    second: g36k_2
+  - first:
+      213: -8919121154632331922
+    second: g36k_3
+  - first:
+      213: 3264491437484078597
+    second: g36k_4
+  - first:
+      213: 6834906764120459079
+    second: g36k_5
+  - first:
+      213: 86937085724753186
+    second: g36k_6
+  - first:
+      213: -6606758805869524011
+    second: g36k_7
+  - first:
+      213: -4268066802469711061
+    second: g36k_8
+  - first:
+      213: -3963217869254760718
+    second: g36k_9
+  - first:
+      213: -3384783334761404424
+    second: g36k_10
+  - first:
+      213: 1418784175120402864
+    second: g36k_11
+  - first:
+      213: -6391283333755509806
+    second: g36k_12
+  - first:
+      213: -6129637155231706299
+    second: g36k_13
+  - first:
+      213: -1125744676444253801
+    second: g36k_14
+  - first:
+      213: -570430843568210131
+    second: g36k_15
+  - first:
+      213: 9056352566027075140
+    second: g36k_16
+  - first:
+      213: 8740623008566919717
+    second: g36k_17
+  - first:
+      213: -8143209357410226825
+    second: g36k_18
+  - first:
+      213: 762764232773424789
+    second: g36k_19
+  - first:
+      213: -8268726648302063803
+    second: g36k_20
+  - first:
+      213: 4340094395873848594
+    second: g36k_21
+  - first:
+      213: 297856092642516268
+    second: g36k_22
+  - first:
+      213: -496983637924315725
+    second: g36k_23
+  - first:
+      213: -5442174804591220501
+    second: g36k_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: g36k_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 1885
+        height: 1831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4744e5800ec4e2f0800000000000000
+      internalID: -944403520199309491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_1
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1651
+        width: 111
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e82b223586a0140800000000000000
+      internalID: 4686673068506123875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_2
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1296
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65ac6d97a8e0d4d0800000000000000
+      internalID: -3111731535914687122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_3
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1241
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dc77db09ae83480800000000000000
+      internalID: -8919121154632331922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_4
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1228
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506fa879aadcd4d20800000000000000
+      internalID: 3264491437484078597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_5
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1146
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74780543d777ade50800000000000000
+      internalID: 6834906764120459079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_6
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1050
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d7e60a1dcd43100800000000000000
+      internalID: 86937085724753186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_7
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1078
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db8673ced31054a0800000000000000
+      internalID: -6606758805869524011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_8
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 941
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23d7293bd7c4c4c0800000000000000
+      internalID: -4268066802469711061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_9
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 982
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e69f8852dff8c0800000000000000
+      internalID: -3963217869254760718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_10
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 859
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f762e98d75d601d0800000000000000
+      internalID: -3384783334761404424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_11
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 736
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b94ff2b0b880b310800000000000000
+      internalID: 1418784175120402864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_12
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 682
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3e0a0aba99d47a0800000000000000
+      internalID: -6391283333755509806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_13
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 613
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543d068cb772feaa0800000000000000
+      internalID: -6129637155231706299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_14
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 545
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791d0c46e2d8060f0800000000000000
+      internalID: -1125744676444253801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_15
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 545
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fb0388b2c6518f0800000000000000
+      internalID: -570430843568210131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_16
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 491
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ebdba1da0aead70800000000000000
+      internalID: 9056352566027075140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_17
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 354
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522cc35015eec4970800000000000000
+      internalID: 8740623008566919717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_18
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 409
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d2de7eb328dfe80800000000000000
+      internalID: -8143209357410226825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_19
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 149
+        width: 439
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59655d54702e59a00800000000000000
+      internalID: 762764232773424789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_20
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 340
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f26274ce49f3d80800000000000000
+      internalID: -8268726648302063803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 67
+        width: 438
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d69b5bbdc1b3c30800000000000000
+      internalID: 4340094395873848594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_22
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 272
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d9424c982322400800000000000000
+      internalID: 297856092642516268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 385
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdf652b30c5a19f0800000000000000
+      internalID: -496983637924315725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g36k_24
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 40
+        width: 438
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be862ce59d28974b0800000000000000
+      internalID: -5442174804591220501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      g36k_0: -944403520199309491
+      g36k_1: 4686673068506123875
+      g36k_10: -3384783334761404424
+      g36k_11: 1418784175120402864
+      g36k_12: -6391283333755509806
+      g36k_13: -6129637155231706299
+      g36k_14: -1125744676444253801
+      g36k_15: -570430843568210131
+      g36k_16: 9056352566027075140
+      g36k_17: 8740623008566919717
+      g36k_18: -8143209357410226825
+      g36k_19: 762764232773424789
+      g36k_2: -3111731535914687122
+      g36k_20: -8268726648302063803
+      g36k_21: 4340094395873848594
+      g36k_22: 297856092642516268
+      g36k_23: -496983637924315725
+      g36k_24: -5442174804591220501
+      g36k_3: -8919121154632331922
+      g36k_4: 3264491437484078597
+      g36k_5: 6834906764120459079
+      g36k_6: 86937085724753186
+      g36k_7: -6606758805869524011
+      g36k_8: -4268066802469711061
+      g36k_9: -3963217869254760718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

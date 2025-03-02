@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 3388ab873f728784fbd69ee6f5bfd379
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8122646853187312050
+    second: aughbar_0
+  - first:
+      213: -217097597828735445
+    second: aughbar_1
+  - first:
+      213: 194475245843201939
+    second: aughbar_2
+  - first:
+      213: 6462117247991077384
+    second: aughbar_3
+  - first:
+      213: -5586885335782072515
+    second: aughbar_4
+  - first:
+      213: -9098108499267591013
+    second: aughbar_5
+  - first:
+      213: 5469636061910054818
+    second: aughbar_6
+  - first:
+      213: -962175074048873766
+    second: aughbar_7
+  - first:
+      213: 823181868113346936
+    second: aughbar_8
+  - first:
+      213: 2684091320866193517
+    second: aughbar_9
+  - first:
+      213: 1741736134858442121
+    second: aughbar_10
+  - first:
+      213: 5033692253181784407
+    second: aughbar_11
+  - first:
+      213: -508959299566521324
+    second: aughbar_12
+  - first:
+      213: -2276248173471424626
+    second: aughbar_13
+  - first:
+      213: 3578152974716874390
+    second: aughbar_14
+  - first:
+      213: -4784013116777959857
+    second: aughbar_15
+  - first:
+      213: -6214746978123821256
+    second: aughbar_16
+  - first:
+      213: -3657336120290360866
+    second: aughbar_17
+  - first:
+      213: -4778783465520558344
+    second: aughbar_18
+  - first:
+      213: 4061651827451935357
+    second: aughbar_19
+  - first:
+      213: 2705304579894086901
+    second: aughbar_20
+  - first:
+      213: 6653464195131458900
+    second: aughbar_21
+  - first:
+      213: -6838019917358749008
+    second: aughbar_22
+  - first:
+      213: -8531988123467628586
+    second: aughbar_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aughbar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 1783
+        height: 1660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b99c20074079b070800000000000000
+      internalID: 8122646853187312050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_1
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 357
+        width: 146
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ed3df82e6bcfcf0800000000000000
+      internalID: -217097597828735445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_2
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 296
+        width: 268
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f371aa43ae2b200800000000000000
+      internalID: 194475245843201939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 347
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ade67366d0ea950800000000000000
+      internalID: 6462117247991077384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_4
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 337
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fdedf33656772b0800000000000000
+      internalID: -5586885335782072515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 296
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94613516860db180800000000000000
+      internalID: -9098108499267591013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_6
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 275
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7b0d8d40d08eb40800000000000000
+      internalID: 5469636061910054818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 306
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adae4933edaa5a2f0800000000000000
+      internalID: -962175074048873766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_8
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 275
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87140723c878c6b00800000000000000
+      internalID: 823181868113346936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_9
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 194
+        width: 268
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6040fcd5decf3520800000000000000
+      internalID: 2684091320866193517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98503ba59c3eb2810800000000000000
+      internalID: 1741736134858442121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_11
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 235
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75139834f644bd540800000000000000
+      internalID: 5033692253181784407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_12
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 224
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414b430b630dfe8f0800000000000000
+      internalID: -508959299566521324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 224
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f9a97a8542960e0800000000000000
+      internalID: -2276248173471424626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_14
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 173
+        width: 268
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ea1023c2728a130800000000000000
+      internalID: 3578152974716874390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_15
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 255
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ee3a5ca65cb9db0800000000000000
+      internalID: -4784013116777959857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 173
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f4fffec88c0c9a0800000000000000
+      internalID: -6214746978123821256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 214
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed143ed0d288e3dc0800000000000000
+      internalID: -3657336120290360866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_18
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 204
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe0327d1c95eadb0800000000000000
+      internalID: -4778783465520558344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_19
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 173
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ab69841d2ed5830800000000000000
+      internalID: 4061651827451935357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_20
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 153
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc03dd9e2c2b8520800000000000000
+      internalID: 2705304579894086901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 132
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45547941f6ad55c50800000000000000
+      internalID: 6653464195131458900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_22
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 122
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba29c25d197a11a0800000000000000
+      internalID: -6838019917358749008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aughbar_23
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 91
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df3cd0910a489980800000000000000
+      internalID: -8531988123467628586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aughbar_0: 8122646853187312050
+      aughbar_1: -217097597828735445
+      aughbar_10: 1741736134858442121
+      aughbar_11: 5033692253181784407
+      aughbar_12: -508959299566521324
+      aughbar_13: -2276248173471424626
+      aughbar_14: 3578152974716874390
+      aughbar_15: -4784013116777959857
+      aughbar_16: -6214746978123821256
+      aughbar_17: -3657336120290360866
+      aughbar_18: -4778783465520558344
+      aughbar_19: 4061651827451935357
+      aughbar_2: 194475245843201939
+      aughbar_20: 2705304579894086901
+      aughbar_21: 6653464195131458900
+      aughbar_22: -6838019917358749008
+      aughbar_23: -8531988123467628586
+      aughbar_3: 6462117247991077384
+      aughbar_4: -5586885335782072515
+      aughbar_5: -9098108499267591013
+      aughbar_6: 5469636061910054818
+      aughbar_7: -962175074048873766
+      aughbar_8: 823181868113346936
+      aughbar_9: 2684091320866193517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

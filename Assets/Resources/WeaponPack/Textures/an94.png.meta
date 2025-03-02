@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: ed9ee18b108634b4d8d12d57637a726b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2126188822003216844
+    second: an94_0
+  - first:
+      213: -7416420716631195080
+    second: an94_1
+  - first:
+      213: -3908317381271713131
+    second: an94_2
+  - first:
+      213: 4030461553000725771
+    second: an94_3
+  - first:
+      213: 2407115164899235679
+    second: an94_4
+  - first:
+      213: 8905052389684902656
+    second: an94_5
+  - first:
+      213: 1050436483819691008
+    second: an94_6
+  - first:
+      213: -4636789307736516215
+    second: an94_7
+  - first:
+      213: -617322658268647387
+    second: an94_8
+  - first:
+      213: 3612674925623121469
+    second: an94_9
+  - first:
+      213: 4347699007746453210
+    second: an94_10
+  - first:
+      213: 8663546612215962563
+    second: an94_11
+  - first:
+      213: 2462403150068145542
+    second: an94_12
+  - first:
+      213: -7466851483701224344
+    second: an94_13
+  - first:
+      213: -4587599389093090742
+    second: an94_14
+  - first:
+      213: 931112808072627437
+    second: an94_15
+  - first:
+      213: -2808000890564489586
+    second: an94_16
+  - first:
+      213: 998365733481364755
+    second: an94_17
+  - first:
+      213: -4475679209069245505
+    second: an94_18
+  - first:
+      213: 7682124755158083915
+    second: an94_19
+  - first:
+      213: -2809066184694712391
+    second: an94_20
+  - first:
+      213: -7413414832429022701
+    second: an94_21
+  - first:
+      213: -9134471134544560165
+    second: an94_22
+  - first:
+      213: -6242468779632908151
+    second: an94_23
+  - first:
+      213: -1390180588772721468
+    second: an94_24
+  - first:
+      213: 1727345510358257628
+    second: an94_25
+  - first:
+      213: -4388959082782090675
+    second: an94_26
+  - first:
+      213: 6834233795368082563
+    second: an94_27
+  - first:
+      213: -5081701618033820089
+    second: an94_28
+  - first:
+      213: -9017317809529200066
+    second: an94_29
+  - first:
+      213: -8095710281433100133
+    second: an94_30
+  - first:
+      213: 6666437908232893896
+    second: an94_31
+  - first:
+      213: -2085517728093594200
+    second: an94_32
+  - first:
+      213: -1669710958543896389
+    second: an94_33
+  - first:
+      213: -5151202563850900544
+    second: an94_34
+  - first:
+      213: 7998725519224827908
+    second: an94_35
+  - first:
+      213: 3137978870705396775
+    second: an94_36
+  - first:
+      213: 6515393468297397795
+    second: an94_37
+  - first:
+      213: -4795874608689467473
+    second: an94_38
+  - first:
+      213: -4414225486058366514
+    second: an94_39
+  - first:
+      213: -3838736201993336099
+    second: an94_40
+  - first:
+      213: 2291874476198141489
+    second: an94_41
+  - first:
+      213: 575410581686675736
+    second: an94_42
+  - first:
+      213: 2207260724023485457
+    second: an94_43
+  - first:
+      213: 3696838008690737011
+    second: an94_44
+  - first:
+      213: 4879359519008612622
+    second: an94_45
+  - first:
+      213: -5942884049023604467
+    second: an94_46
+  - first:
+      213: 7811384101677921627
+    second: an94_47
+  - first:
+      213: -2665355322206319072
+    second: an94_48
+  - first:
+      213: -4780368671508733891
+    second: an94_49
+  - first:
+      213: -3846588350877031039
+    second: an94_50
+  - first:
+      213: -4019323644159561763
+    second: an94_51
+  - first:
+      213: -1733852531351052946
+    second: an94_52
+  - first:
+      213: -2675083446202735223
+    second: an94_53
+  - first:
+      213: -5635130759219444712
+    second: an94_54
+  - first:
+      213: 3957720280895332134
+    second: an94_55
+  - first:
+      213: 2248969885686460381
+    second: an94_56
+  - first:
+      213: 4149055009449668601
+    second: an94_57
+  - first:
+      213: -2482121942673360469
+    second: an94_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: an94_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 1230
+        height: 1131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc178e4f77db18d10800000000000000
+      internalID: 2126188822003216844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_1
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1842
+        width: 313
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8328950f6a4931990800000000000000
+      internalID: -7416420716631195080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_2
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1424
+        width: 313
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a80d38c0ed2c9c0800000000000000
+      internalID: -3908317381271713131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_3
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1531
+        width: 436
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d3a7b9d631fe730800000000000000
+      internalID: 4030461553000725771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_4
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1490
+        width: 199
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5756413d7ac76120800000000000000
+      internalID: 2407115164899235679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_5
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1441
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b7969a7f9159b70800000000000000
+      internalID: 8905052389684902656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_6
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1383
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cde25aa66e39e00800000000000000
+      internalID: 1050436483819691008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_7
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1383
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989190ef0b0d6afb0800000000000000
+      internalID: -4636789307736516215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_8
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1408
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520f8122054de67f0800000000000000
+      internalID: -617322658268647387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_9
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1342
+        width: 117
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d361abe34bcc22230800000000000000
+      internalID: 3612674925623121469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_10
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1326
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeab036631265c30800000000000000
+      internalID: 4347699007746453210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_11
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 777
+        width: 182
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbdb2c0eb91b3870800000000000000
+      internalID: 8663546612215962563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 695
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d5d9d5e963c2220800000000000000
+      internalID: 2462403150068145542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 695
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cd36bf22a606890800000000000000
+      internalID: -7466851483701224344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 695
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aae4969a29550c0800000000000000
+      internalID: -4587599389093090742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 695
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de44cfa6a2afbec00800000000000000
+      internalID: 931112808072627437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 695
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e4ce4411af709d0800000000000000
+      internalID: -2808000890564489586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 695
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d34145858eadd00800000000000000
+      internalID: 998365733481364755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_18
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 646
+        width: 182
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb83d6f87133e1c0800000000000000
+      internalID: -4475679209069245505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 613
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49ae6f53c36c9a60800000000000000
+      internalID: 7682124755158083915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 613
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7b5b620313409d0800000000000000
+      internalID: -2809066184694712391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_21
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 613
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312c474ec724e1990800000000000000
+      internalID: -7413414832429022701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_22
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 613
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf796e46e6db3180800000000000000
+      internalID: -9134471134544560165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_23
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 613
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988a38c08bb4e59a0800000000000000
+      internalID: -6242468779632908151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_24
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 605
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccfe88be1615bce0800000000000000
+      internalID: -1390180588772721468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_25
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 605
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf054df693c8f710800000000000000
+      internalID: 1727345510358257628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_26
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 605
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a9c09c7f84713c0800000000000000
+      internalID: -4388959082782090675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_27
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 605
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c52e47d6318de50800000000000000
+      internalID: 6834233795368082563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_28
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 605
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ef09a6d4b2a79b0800000000000000
+      internalID: -5081701618033820089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_29
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 605
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3265306a3d0cd280800000000000000
+      internalID: -9017317809529200066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_30
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 605
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90d3b6546246af80800000000000000
+      internalID: -8095710281433100133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_31
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 605
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c57b6d05f1f38c50800000000000000
+      internalID: 6666437908232893896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_32
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 605
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad93340da0ce03e0800000000000000
+      internalID: -2085517728093594200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_33
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 523
+        width: 166
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb00a6ecabef3d8e0800000000000000
+      internalID: -1669710958543896389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_34
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 515
+        width: 231
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbe5977f804388b0800000000000000
+      internalID: -5151202563850900544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_35
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 581
+        width: 100
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4007f3d0b7e210f60800000000000000
+      internalID: 7998725519224827908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_36
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 482
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c931d38275c8b20800000000000000
+      internalID: 3137978870705396775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_37
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 531
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32644c1e6d35b6a50800000000000000
+      internalID: 6515393468297397795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_38
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 491
+        width: 133
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafafb9f371a17db0800000000000000
+      internalID: -4795874608689467473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_39
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 482
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9d309de458db2c0800000000000000
+      internalID: -4414225486058366514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_40
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 425
+        width: 157
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda41c543c11abac0800000000000000
+      internalID: -3838736201993336099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_41
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 425
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e139771bf5ecf10800000000000000
+      internalID: 2291874476198141489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_42
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 376
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8196f6910e44cf700800000000000000
+      internalID: 575410581686675736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_43
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 425
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11467161fe3c1ae10800000000000000
+      internalID: 2207260724023485457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_44
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 368
+        width: 133
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f7c2c059ecd4330800000000000000
+      internalID: 3696838008690737011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_45
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 368
+        width: 232
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01eded61a7f6b340800000000000000
+      internalID: 4879359519008612622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_46
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 294
+        width: 280
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09ec94b172a68da0800000000000000
+      internalID: -5942884049023604467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_47
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 335
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5575a8347c976c60800000000000000
+      internalID: 7811384101677921627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_48
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 327
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e02b3c471c20bd0800000000000000
+      internalID: -2665355322206319072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_49
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 220
+        width: 281
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30e05f4508b8adb0800000000000000
+      internalID: -4780368671508733891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_50
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 253
+        width: 232
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185a1d4664c2e9ac0800000000000000
+      internalID: -3846588350877031039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_51
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 302
+        width: 117
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf6a80e07e7838c0800000000000000
+      internalID: -4019323644159561763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_52
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 163
+        width: 166
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d98ef1f4e10f7e0800000000000000
+      internalID: -1733852531351052946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_53
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 171
+        width: 232
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ee8467c130ead0800000000000000
+      internalID: -2675083446202735223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_54
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 245
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81409d14e6efbc1b0800000000000000
+      internalID: -5635130759219444712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_55
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 163
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f102760a5ace630800000000000000
+      internalID: 3957720280895332134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_56
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 163
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf64ea0232f53f10800000000000000
+      internalID: 2248969885686460381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_57
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 196
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff6dc76c87649930800000000000000
+      internalID: 4149055009449668601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: an94_58
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 171
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba970c57e3bbd8dd0800000000000000
+      internalID: -2482121942673360469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      an94_0: 2126188822003216844
+      an94_1: -7416420716631195080
+      an94_10: 4347699007746453210
+      an94_11: 8663546612215962563
+      an94_12: 2462403150068145542
+      an94_13: -7466851483701224344
+      an94_14: -4587599389093090742
+      an94_15: 931112808072627437
+      an94_16: -2808000890564489586
+      an94_17: 998365733481364755
+      an94_18: -4475679209069245505
+      an94_19: 7682124755158083915
+      an94_2: -3908317381271713131
+      an94_20: -2809066184694712391
+      an94_21: -7413414832429022701
+      an94_22: -9134471134544560165
+      an94_23: -6242468779632908151
+      an94_24: -1390180588772721468
+      an94_25: 1727345510358257628
+      an94_26: -4388959082782090675
+      an94_27: 6834233795368082563
+      an94_28: -5081701618033820089
+      an94_29: -9017317809529200066
+      an94_3: 4030461553000725771
+      an94_30: -8095710281433100133
+      an94_31: 6666437908232893896
+      an94_32: -2085517728093594200
+      an94_33: -1669710958543896389
+      an94_34: -5151202563850900544
+      an94_35: 7998725519224827908
+      an94_36: 3137978870705396775
+      an94_37: 6515393468297397795
+      an94_38: -4795874608689467473
+      an94_39: -4414225486058366514
+      an94_4: 2407115164899235679
+      an94_40: -3838736201993336099
+      an94_41: 2291874476198141489
+      an94_42: 575410581686675736
+      an94_43: 2207260724023485457
+      an94_44: 3696838008690737011
+      an94_45: 4879359519008612622
+      an94_46: -5942884049023604467
+      an94_47: 7811384101677921627
+      an94_48: -2665355322206319072
+      an94_49: -4780368671508733891
+      an94_5: 8905052389684902656
+      an94_50: -3846588350877031039
+      an94_51: -4019323644159561763
+      an94_52: -1733852531351052946
+      an94_53: -2675083446202735223
+      an94_54: -5635130759219444712
+      an94_55: 3957720280895332134
+      an94_56: 2248969885686460381
+      an94_57: 4149055009449668601
+      an94_58: -2482121942673360469
+      an94_6: 1050436483819691008
+      an94_7: -4636789307736516215
+      an94_8: -617322658268647387
+      an94_9: 3612674925623121469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

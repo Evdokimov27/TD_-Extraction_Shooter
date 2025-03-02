@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 57e109452eda2304799332330d9f293f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4850457873853047153
+    second: gp25_0
+  - first:
+      213: 7764811764423994964
+    second: gp25_1
+  - first:
+      213: -9039349913041249767
+    second: gp25_2
+  - first:
+      213: -2005484235783015914
+    second: gp25_3
+  - first:
+      213: 2446718877301568393
+    second: gp25_4
+  - first:
+      213: 304216127829817880
+    second: gp25_5
+  - first:
+      213: 686950121418651914
+    second: gp25_6
+  - first:
+      213: -1913766979906809630
+    second: gp25_7
+  - first:
+      213: 273280446392827062
+    second: gp25_8
+  - first:
+      213: -948981088921589249
+    second: gp25_9
+  - first:
+      213: 357775763160491285
+    second: gp25_10
+  - first:
+      213: 5012799373301743523
+    second: gp25_11
+  - first:
+      213: -9199840630284467890
+    second: gp25_12
+  - first:
+      213: 2370232021889971923
+    second: gp25_13
+  - first:
+      213: 7478157590057668510
+    second: gp25_14
+  - first:
+      213: 6357686107770639071
+    second: gp25_15
+  - first:
+      213: -3320472826725917911
+    second: gp25_16
+  - first:
+      213: -3249183287162312535
+    second: gp25_17
+  - first:
+      213: 6236592314005540207
+    second: gp25_18
+  - first:
+      213: 258244457160752869
+    second: gp25_19
+  - first:
+      213: -5105167800744185197
+    second: gp25_20
+  - first:
+      213: 7256712209916264177
+    second: gp25_21
+  - first:
+      213: -6854763205327389213
+    second: gp25_22
+  - first:
+      213: -3101706575969093978
+    second: gp25_23
+  - first:
+      213: 3249975305230933940
+    second: gp25_24
+  - first:
+      213: 4320731365139305454
+    second: gp25_25
+  - first:
+      213: -7882559691555802969
+    second: gp25_26
+  - first:
+      213: 464796108144920679
+    second: gp25_27
+  - first:
+      213: 7775382237517171112
+    second: gp25_28
+  - first:
+      213: 8007958263562766637
+    second: gp25_29
+  - first:
+      213: 8877263774541750809
+    second: gp25_30
+  - first:
+      213: -5778737547413594604
+    second: gp25_31
+  - first:
+      213: -3922243356464425745
+    second: gp25_32
+  - first:
+      213: 8746217153316220138
+    second: gp25_33
+  - first:
+      213: -2336057998153367299
+    second: gp25_34
+  - first:
+      213: 979893850028070785
+    second: gp25_35
+  - first:
+      213: -8748796711359356560
+    second: gp25_36
+  - first:
+      213: 8550607239799602079
+    second: gp25_37
+  - first:
+      213: 8962543547772741752
+    second: gp25_38
+  - first:
+      213: -6491572396089846265
+    second: gp25_39
+  - first:
+      213: -2300434884614484977
+    second: gp25_40
+  - first:
+      213: -4327747012972342128
+    second: gp25_41
+  - first:
+      213: -7170716901482661233
+    second: gp25_42
+  - first:
+      213: 7056242591884962533
+    second: gp25_43
+  - first:
+      213: 5386830975080404480
+    second: gp25_44
+  - first:
+      213: -2148046986645284174
+    second: gp25_45
+  - first:
+      213: -6060824192025930648
+    second: gp25_46
+  - first:
+      213: -5381785486416702815
+    second: gp25_47
+  - first:
+      213: -2035109886778029621
+    second: gp25_48
+  - first:
+      213: 7307345928148767609
+    second: gp25_49
+  - first:
+      213: 1523289829330435135
+    second: gp25_50
+  - first:
+      213: -2329099137512075073
+    second: gp25_51
+  - first:
+      213: -7128594931445140465
+    second: gp25_52
+  - first:
+      213: -869273331327869287
+    second: gp25_53
+  - first:
+      213: -792411920919097415
+    second: gp25_54
+  - first:
+      213: 4045011541980828899
+    second: gp25_55
+  - first:
+      213: 9075201899845562745
+    second: gp25_56
+  - first:
+      213: -5629906526519070407
+    second: gp25_57
+  - first:
+      213: -1150485220725883753
+    second: gp25_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gp25_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 1246
+        height: 1263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171e109ccb9405340800000000000000
+      internalID: 4850457873853047153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_1
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1752
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e2446f82722cb60800000000000000
+      internalID: 7764811764423994964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_2
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1433
+        width: 281
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ad7b88527cd8280800000000000000
+      internalID: -9039349913041249767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1252
+        width: 281
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612f18b86b61b24e0800000000000000
+      internalID: -2005484235783015914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1015
+        width: 362
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9837dca0bdd74f120800000000000000
+      internalID: 2446718877301568393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 280
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81abd3ad4fac83400800000000000000
+      internalID: 304216127829817880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 704
+        width: 199
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09f19dee79888900800000000000000
+      internalID: 686950121418651914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 826
+        width: 362
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e058c3421fe075e0800000000000000
+      internalID: -1913766979906809630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 769
+        width: 149
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcfd4b3e13eac300800000000000000
+      internalID: 273280446392827062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 753
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e3404aba84d2f0800000000000000
+      internalID: -948981088921589249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 769
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ec68392317f400800000000000000
+      internalID: 357775763160491285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 671
+        width: 281
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af73f7987a019540800000000000000
+      internalID: 5012799373301743523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_12
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 597
+        width: 363
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4140b980b9935080800000000000000
+      internalID: -9199840630284467890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 687
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6f1044771c4e020800000000000000
+      internalID: 2370232021889971923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 695
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f47c905b0c7c760800000000000000
+      internalID: 7478157590057668510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 712
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2da1f94d90b3850800000000000000
+      internalID: 6357686107770639071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 679
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b1aa48e8f4be1d0800000000000000
+      internalID: -3320472826725917911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_17
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 695
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8ed86e30598e2d0800000000000000
+      internalID: -3249183287162312535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_18
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 638
+        width: 198
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d4b3daaa3dc8650800000000000000
+      internalID: 6236592314005540207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_19
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 638
+        width: 182
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeb74e27f7759300800000000000000
+      internalID: 258244457160752869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_20
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 622
+        width: 182
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39271edfeecc629b0800000000000000
+      internalID: -5105167800744185197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 402
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe7c45ae4505b460800000000000000
+      internalID: 7256712209916264177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_22
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 458
+        width: 330
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edfa0fce2dfed0a0800000000000000
+      internalID: -6854763205327389213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 491
+        width: 330
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a67edd7d4684f4d0800000000000000
+      internalID: -3101706575969093978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_24
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 630
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfd41d225b3a1d20800000000000000
+      internalID: 3249975305230933940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_25
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 630
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3540dc84256fb30800000000000000
+      internalID: 4320731365139305454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_26
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 613
+        width: 133
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0f00069b58b9290800000000000000
+      internalID: -7882559691555802969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_27
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 540
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76846f60999437600800000000000000
+      internalID: 464796108144920679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_28
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 491
+        width: 183
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c71403f4b7eb60800000000000000
+      internalID: 7775382237517171112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 278
+        width: 591
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2900dbdc9bf12f60800000000000000
+      internalID: 8007958263562766637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_30
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 278
+        width: 379
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91221038e50623b70800000000000000
+      internalID: 8877263774541750809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_31
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 335
+        width: 133
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e533451dccdcfa0800000000000000
+      internalID: -5778737547413594604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_32
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 368
+        width: 166
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe45d4fb2746199c0800000000000000
+      internalID: -3922243356464425745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_33
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 359
+        width: 231
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec67d7592ec06970800000000000000
+      internalID: 8746217153316220138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_34
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 425
+        width: 101
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0cb5da0a7a49fd0800000000000000
+      internalID: -2336057998153367299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 245
+        width: 330
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1875380d348499d00800000000000000
+      internalID: 979893850028070785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 327
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e15f7eb7069680800000000000000
+      internalID: -8748796711359356560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_37
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 376
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b73264bfbd9a670800000000000000
+      internalID: 8550607239799602079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 97
+        width: 379
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878a6f00fd9516c70800000000000000
+      internalID: 8962543547772741752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_39
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 269
+        width: 158
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7065551bc4d49e5a0800000000000000
+      internalID: -6491572396089846265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_40
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 220
+        width: 149
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c03a129a63310e0800000000000000
+      internalID: -2300434884614484977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_41
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 269
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09496066501c0f3c0800000000000000
+      internalID: -4327747012972342128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_42
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 212
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a7c3e58fe7c7c90800000000000000
+      internalID: -7170716901482661233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_43
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 269
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eae842704fcce160800000000000000
+      internalID: 7056242591884962533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_44
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 212
+        width: 231
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0061dbe2b3ed1ca40800000000000000
+      internalID: 5386830975080404480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 40
+        width: 330
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bad82085aa9032e0800000000000000
+      internalID: -2148046986645284174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_46
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 138
+        width: 281
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864533c4280a3eba0800000000000000
+      internalID: -6060824192025930648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_47
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 179
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a297c03d9e0055b0800000000000000
+      internalID: -5381785486416702815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_48
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 171
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9c5b72756d1c3e0800000000000000
+      internalID: -2035109886778029621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_49
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 65
+        width: 280
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973543ad768e86560800000000000000
+      internalID: 7307345928148767609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_50
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 97
+        width: 231
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cb43f6700d32510800000000000000
+      internalID: 1523289829330435135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_51
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 146
+        width: 117
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb09cedaca06dafd0800000000000000
+      internalID: -2329099137512075073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_52
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 7
+        width: 166
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04ff83cda4221d90800000000000000
+      internalID: -7128594931445140465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_53
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 15
+        width: 231
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e5b71c288bfe3f0800000000000000
+      internalID: -869273331327869287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_54
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 89
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf05d96e89c005f0800000000000000
+      internalID: -792411920919097415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 7
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45f18e094c22830800000000000000
+      internalID: 4045011541980828899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_56
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 7
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971be31ab0891fd70800000000000000
+      internalID: 9075201899845562745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_57
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 40
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9317d28b7dd8ed1b0800000000000000
+      internalID: -5629906526519070407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp25_58
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 15
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cfb4b89c7a800f0800000000000000
+      internalID: -1150485220725883753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gp25_0: 4850457873853047153
+      gp25_1: 7764811764423994964
+      gp25_10: 357775763160491285
+      gp25_11: 5012799373301743523
+      gp25_12: -9199840630284467890
+      gp25_13: 2370232021889971923
+      gp25_14: 7478157590057668510
+      gp25_15: 6357686107770639071
+      gp25_16: -3320472826725917911
+      gp25_17: -3249183287162312535
+      gp25_18: 6236592314005540207
+      gp25_19: 258244457160752869
+      gp25_2: -9039349913041249767
+      gp25_20: -5105167800744185197
+      gp25_21: 7256712209916264177
+      gp25_22: -6854763205327389213
+      gp25_23: -3101706575969093978
+      gp25_24: 3249975305230933940
+      gp25_25: 4320731365139305454
+      gp25_26: -7882559691555802969
+      gp25_27: 464796108144920679
+      gp25_28: 7775382237517171112
+      gp25_29: 8007958263562766637
+      gp25_3: -2005484235783015914
+      gp25_30: 8877263774541750809
+      gp25_31: -5778737547413594604
+      gp25_32: -3922243356464425745
+      gp25_33: 8746217153316220138
+      gp25_34: -2336057998153367299
+      gp25_35: 979893850028070785
+      gp25_36: -8748796711359356560
+      gp25_37: 8550607239799602079
+      gp25_38: 8962543547772741752
+      gp25_39: -6491572396089846265
+      gp25_4: 2446718877301568393
+      gp25_40: -2300434884614484977
+      gp25_41: -4327747012972342128
+      gp25_42: -7170716901482661233
+      gp25_43: 7056242591884962533
+      gp25_44: 5386830975080404480
+      gp25_45: -2148046986645284174
+      gp25_46: -6060824192025930648
+      gp25_47: -5381785486416702815
+      gp25_48: -2035109886778029621
+      gp25_49: 7307345928148767609
+      gp25_5: 304216127829817880
+      gp25_50: 1523289829330435135
+      gp25_51: -2329099137512075073
+      gp25_52: -7128594931445140465
+      gp25_53: -869273331327869287
+      gp25_54: -792411920919097415
+      gp25_55: 4045011541980828899
+      gp25_56: 9075201899845562745
+      gp25_57: -5629906526519070407
+      gp25_58: -1150485220725883753
+      gp25_6: 686950121418651914
+      gp25_7: -1913766979906809630
+      gp25_8: 273280446392827062
+      gp25_9: -948981088921589249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: 365c27ab72532f8488b50869b076c90f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4568132766191599552
+    second: ak74_0
+  - first:
+      213: -3527106447758880768
+    second: ak74_1
+  - first:
+      213: 4377114042213281852
+    second: ak74_2
+  - first:
+      213: 4641446077323018270
+    second: ak74_3
+  - first:
+      213: 2315114900078766431
+    second: ak74_4
+  - first:
+      213: 8593672312895035869
+    second: ak74_5
+  - first:
+      213: 6992786707521712500
+    second: ak74_6
+  - first:
+      213: -5961565753925382591
+    second: ak74_7
+  - first:
+      213: -2603852600320366353
+    second: ak74_8
+  - first:
+      213: 1807515726823800552
+    second: ak74_9
+  - first:
+      213: 1802611788949390096
+    second: ak74_10
+  - first:
+      213: 4674210057338851588
+    second: ak74_11
+  - first:
+      213: 8486814218445493718
+    second: ak74_12
+  - first:
+      213: -6969339199209131362
+    second: ak74_13
+  - first:
+      213: 8195078698973765543
+    second: ak74_14
+  - first:
+      213: -266319919205043589
+    second: ak74_15
+  - first:
+      213: -8878928378107536192
+    second: ak74_16
+  - first:
+      213: 6837294125641856054
+    second: ak74_17
+  - first:
+      213: -3669022749060305977
+    second: ak74_18
+  - first:
+      213: -3260700325024205692
+    second: ak74_19
+  - first:
+      213: -20185687977807737
+    second: ak74_20
+  - first:
+      213: -431682447438407537
+    second: ak74_21
+  - first:
+      213: 1238189272589646376
+    second: ak74_22
+  - first:
+      213: 651771533366618119
+    second: ak74_23
+  - first:
+      213: -6604062837610698823
+    second: ak74_24
+  - first:
+      213: -7711843217278897673
+    second: ak74_25
+  - first:
+      213: 8257367765588646731
+    second: ak74_26
+  - first:
+      213: -5652818590332614039
+    second: ak74_27
+  - first:
+      213: -3840382667961421504
+    second: ak74_28
+  - first:
+      213: -961899747130392394
+    second: ak74_29
+  - first:
+      213: -7999796121041283673
+    second: ak74_30
+  - first:
+      213: 212366951027582641
+    second: ak74_31
+  - first:
+      213: -5744076962998296950
+    second: ak74_32
+  - first:
+      213: -233042727116979839
+    second: ak74_33
+  - first:
+      213: 7935034599548627202
+    second: ak74_34
+  - first:
+      213: 207702411874642280
+    second: ak74_35
+  - first:
+      213: 6417533289037270598
+    second: ak74_36
+  - first:
+      213: -7970689539245714558
+    second: ak74_37
+  - first:
+      213: 8183633238236667874
+    second: ak74_38
+  - first:
+      213: -1974715531396343591
+    second: ak74_39
+  - first:
+      213: -2868273803434798642
+    second: ak74_40
+  - first:
+      213: -2725503032378060262
+    second: ak74_41
+  - first:
+      213: -6439393931045141428
+    second: ak74_42
+  - first:
+      213: -8585054210557272943
+    second: ak74_43
+  - first:
+      213: -4494731388144091215
+    second: ak74_44
+  - first:
+      213: -3600731083803891469
+    second: ak74_45
+  - first:
+      213: -5103074546835813729
+    second: ak74_46
+  - first:
+      213: -435561811410913961
+    second: ak74_47
+  - first:
+      213: 2431821929332492138
+    second: ak74_48
+  - first:
+      213: 4246551757457785365
+    second: ak74_49
+  - first:
+      213: 6930343398270090873
+    second: ak74_50
+  - first:
+      213: 3592633966337823321
+    second: ak74_51
+  - first:
+      213: 3878241015168979177
+    second: ak74_52
+  - first:
+      213: 4503448987781161088
+    second: ak74_53
+  - first:
+      213: 8996440318316174311
+    second: ak74_54
+  - first:
+      213: 6497018381686973559
+    second: ak74_55
+  - first:
+      213: -1731635021881978044
+    second: ak74_56
+  - first:
+      213: 5908836836210228820
+    second: ak74_57
+  - first:
+      213: 855121687166424568
+    second: ak74_58
+  - first:
+      213: -8578083927582137120
+    second: ak74_59
+  - first:
+      213: -290340080570213050
+    second: ak74_60
+  - first:
+      213: -3896070222971255123
+    second: ak74_61
+  - first:
+      213: 1888451185087039723
+    second: ak74_62
+  - first:
+      213: 6631067434831180573
+    second: ak74_63
+  - first:
+      213: 7056395726955809578
+    second: ak74_64
+  - first:
+      213: 4957668971648188106
+    second: ak74_65
+  - first:
+      213: -7531288421605093381
+    second: ak74_66
+  - first:
+      213: 1753227844416860389
+    second: ak74_67
+  - first:
+      213: -2313903902228989716
+    second: ak74_68
+  - first:
+      213: -3498477268225589575
+    second: ak74_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ak74_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1146
+        width: 890
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf3caf3c84456f30800000000000000
+      internalID: 4568132766191599552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_1
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1749
+        width: 224
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00097588f533d0fc0800000000000000
+      internalID: -3527106447758880768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1614
+        width: 224
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c303f7bc702aebc30800000000000000
+      internalID: 4377114042213281852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_3
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1655
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1008faad9ab96040800000000000000
+      internalID: 4641446077323018270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_4
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1520
+        width: 142
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59a8615cb0f02020800000000000000
+      internalID: 2315114900078766431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_5
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1602
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9d736ff6bd24770800000000000000
+      internalID: 8593672312895035869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_6
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1450
+        width: 171
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471b7eb067e5b0160800000000000000
+      internalID: 6992786707521712500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_7
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1497
+        width: 131
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ec4245883444da0800000000000000
+      internalID: -5961565753925382591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_8
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1538
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe86d661bd14ddbd0800000000000000
+      internalID: -2603852600320366353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_9
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1421
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeb3471af5951910800000000000000
+      internalID: 1807515726823800552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_10
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1468
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01382441fd9240910800000000000000
+      internalID: 1802611788949390096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_11
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1438
+        width: 108
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4019d3938412ed040800000000000000
+      internalID: 4674210057338851588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_12
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1392
+        width: 107
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d59d2d019837c570800000000000000
+      internalID: 8486814218445493718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_13
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1380
+        width: 107
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e923fe76ceee74f90800000000000000
+      internalID: -6969339199209131362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_14
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1368
+        width: 107
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af93b648a4cab170800000000000000
+      internalID: 8195078698973765543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_15
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1357
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b723c2bc177dd4cf0800000000000000
+      internalID: -266319919205043589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_16
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1304
+        width: 119
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccd3c4cea5b7c480800000000000000
+      internalID: -8878928378107536192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_17
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1345
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6347fbf18c2f2ee50800000000000000
+      internalID: 6837294125641856054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_18
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1204
+        width: 131
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbee61cf33051dc0800000000000000
+      internalID: -3669022749060305977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_19
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1187
+        width: 131
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4847eef845aafb2d0800000000000000
+      internalID: -3260700325024205692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_20
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1105
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7803986493948bff0800000000000000
+      internalID: -20185687977807737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_21
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 982
+        width: 178
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8899a8e91b520af0800000000000000
+      internalID: -431682447438407537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_22
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1146
+        width: 72
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ab76d459eee2110800000000000000
+      internalID: 1238189272589646376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_23
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1082
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7086701a1ce8b0900800000000000000
+      internalID: 651771533366618119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_24
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 994
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b72bd9c6d7a954a0800000000000000
+      internalID: -6604062837610698823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1058
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1f596f3770af490800000000000000
+      internalID: -7711843217278897673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1011
+        width: 119
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b1cafbb30189270800000000000000
+      internalID: 8257367765588646731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 941
+        width: 108
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a008721772d81b0800000000000000
+      internalID: -5652818590332614039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_28
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 941
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b79a8f4834bac0800000000000000
+      internalID: -3840382667961421504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_29
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 964
+        width: 189
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b041ceb645a6a2f0800000000000000
+      internalID: -961899747130392394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_30
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 918
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a559c900d30bf090800000000000000
+      internalID: -7999796121041283673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_31
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 883
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b62806ed9a72f200800000000000000
+      internalID: 212366951027582641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_32
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 906
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e5bf18f60f840b0800000000000000
+      internalID: -5744076962998296950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_33
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 824
+        width: 131
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18144b8dfd014ccf0800000000000000
+      internalID: -233042727116979839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_34
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 812
+        width: 130
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209a78a3de7ee1e60800000000000000
+      internalID: 7935034599548627202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_35
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 713
+        width: 201
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869a7ce3e38e1e200800000000000000
+      internalID: 207702411874642280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 684
+        width: 131
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e8f4b5688af0950800000000000000
+      internalID: 6417533289037270598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_37
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 707
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2835656381c626190800000000000000
+      internalID: -7970689539245714558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_38
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 707
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef1d29421b129170800000000000000
+      internalID: 8183633238236667874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_39
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 596
+        width: 131
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d89caacfa66894e0800000000000000
+      internalID: -1974715531396343591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_40
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 602
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1d5bb2c28d138d0800000000000000
+      internalID: -2868273803434798642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_41
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 613
+        width: 190
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a121bd0be611d2ad0800000000000000
+      internalID: -2725503032378060262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_42
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 496
+        width: 131
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c448f3b465da2a6a0800000000000000
+      internalID: -6439393931045141428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_43
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 403
+        width: 131
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c134a5ea2cbd880800000000000000
+      internalID: -8585054210557272943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_44
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 292
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf7fd8dd918f91c0800000000000000
+      internalID: -4494731388144091215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_45
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 315
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f869222822a70ec0800000000000000
+      internalID: -3600731083803891469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_46
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 309
+        width: 165
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a8385acbc3e29b0800000000000000
+      internalID: -5103074546835813729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_47
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 356
+        width: 72
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755702917d294f9f0800000000000000
+      internalID: -435561811410913961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_48
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 286
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a674ede09219fb120800000000000000
+      internalID: 2431821929332492138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 321
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512059ff258ceea30800000000000000
+      internalID: 4246551757457785365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 286
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ebc592a968d2060800000000000000
+      internalID: 6930343398270090873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_51
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 245
+        width: 113
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952919bce899bd130800000000000000
+      internalID: 3592633966337823321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 245
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e05f7ec7a742d530800000000000000
+      internalID: 3878241015168979177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_53
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 210
+        width: 107
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080e9cc7ef67f7e30800000000000000
+      internalID: 4503448987781161088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 245
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebdc38edc6c9dc70800000000000000
+      internalID: 8996440318316174311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_55
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 204
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a2a3abcb0a2a50800000000000000
+      internalID: 6497018381686973559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_56
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 204
+        width: 166
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44359184f1ff7f7e0800000000000000
+      internalID: -1731635021881978044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 151
+        width: 201
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ebd02dbc7600250800000000000000
+      internalID: 5908836836210228820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_58
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 180
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f59943d4a00edb00800000000000000
+      internalID: 855121687166424568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_59
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 175
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4aaf2dd1684f880800000000000000
+      internalID: -8578083927582137120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_60
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 98
+        width: 201
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ddd892c3188fbf0800000000000000
+      internalID: -290340080570213050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 122
+        width: 166
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da642d346c06ee9c0800000000000000
+      internalID: -3896070222971255123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_62
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 157
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be847cee850253a10800000000000000
+      internalID: 1888451185087039723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_63
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 58
+        width: 119
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f5c6f2b8460c50800000000000000
+      internalID: 6631067434831180573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_64
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 63
+        width: 166
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b09cbf68a5de160800000000000000
+      internalID: 7056395726955809578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_65
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 116
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acef011b9ad2dc440800000000000000
+      internalID: 4957668971648188106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff4731451d7b7790800000000000000
+      internalID: -7531288421605093381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_67
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 58
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e07acc7f67b45810800000000000000
+      internalID: 1753227844416860389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_68
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 81
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8304719ac53efd0800000000000000
+      internalID: -2313903902228989716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak74_69
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 63
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be72a4d579e27fc0800000000000000
+      internalID: -3498477268225589575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ak74_0: 4568132766191599552
+      ak74_1: -3527106447758880768
+      ak74_10: 1802611788949390096
+      ak74_11: 4674210057338851588
+      ak74_12: 8486814218445493718
+      ak74_13: -6969339199209131362
+      ak74_14: 8195078698973765543
+      ak74_15: -266319919205043589
+      ak74_16: -8878928378107536192
+      ak74_17: 6837294125641856054
+      ak74_18: -3669022749060305977
+      ak74_19: -3260700325024205692
+      ak74_2: 4377114042213281852
+      ak74_20: -20185687977807737
+      ak74_21: -431682447438407537
+      ak74_22: 1238189272589646376
+      ak74_23: 651771533366618119
+      ak74_24: -6604062837610698823
+      ak74_25: -7711843217278897673
+      ak74_26: 8257367765588646731
+      ak74_27: -5652818590332614039
+      ak74_28: -3840382667961421504
+      ak74_29: -961899747130392394
+      ak74_3: 4641446077323018270
+      ak74_30: -7999796121041283673
+      ak74_31: 212366951027582641
+      ak74_32: -5744076962998296950
+      ak74_33: -233042727116979839
+      ak74_34: 7935034599548627202
+      ak74_35: 207702411874642280
+      ak74_36: 6417533289037270598
+      ak74_37: -7970689539245714558
+      ak74_38: 8183633238236667874
+      ak74_39: -1974715531396343591
+      ak74_4: 2315114900078766431
+      ak74_40: -2868273803434798642
+      ak74_41: -2725503032378060262
+      ak74_42: -6439393931045141428
+      ak74_43: -8585054210557272943
+      ak74_44: -4494731388144091215
+      ak74_45: -3600731083803891469
+      ak74_46: -5103074546835813729
+      ak74_47: -435561811410913961
+      ak74_48: 2431821929332492138
+      ak74_49: 4246551757457785365
+      ak74_5: 8593672312895035869
+      ak74_50: 6930343398270090873
+      ak74_51: 3592633966337823321
+      ak74_52: 3878241015168979177
+      ak74_53: 4503448987781161088
+      ak74_54: 8996440318316174311
+      ak74_55: 6497018381686973559
+      ak74_56: -1731635021881978044
+      ak74_57: 5908836836210228820
+      ak74_58: 855121687166424568
+      ak74_59: -8578083927582137120
+      ak74_6: 6992786707521712500
+      ak74_60: -290340080570213050
+      ak74_61: -3896070222971255123
+      ak74_62: 1888451185087039723
+      ak74_63: 6631067434831180573
+      ak74_64: 7056395726955809578
+      ak74_65: 4957668971648188106
+      ak74_66: -7531288421605093381
+      ak74_67: 1753227844416860389
+      ak74_68: -2313903902228989716
+      ak74_69: -3498477268225589575
+      ak74_7: -5961565753925382591
+      ak74_8: -2603852600320366353
+      ak74_9: 1807515726823800552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

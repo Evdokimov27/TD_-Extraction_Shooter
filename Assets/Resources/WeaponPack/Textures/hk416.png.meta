@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: 13472a9faf72dbb43bb25f0b9c34eadc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2890670927353767585
+    second: hk416_0
+  - first:
+      213: -1684298605421917116
+    second: hk416_1
+  - first:
+      213: 74348731240298911
+    second: hk416_2
+  - first:
+      213: -2710134601924758132
+    second: hk416_3
+  - first:
+      213: -3827789692713784667
+    second: hk416_4
+  - first:
+      213: -8964065468176863131
+    second: hk416_5
+  - first:
+      213: -2982959364359095207
+    second: hk416_6
+  - first:
+      213: 5457012104486862651
+    second: hk416_7
+  - first:
+      213: 3367696024504679640
+    second: hk416_8
+  - first:
+      213: -158991565270098146
+    second: hk416_9
+  - first:
+      213: 1100474796738234760
+    second: hk416_10
+  - first:
+      213: 4311198628008951703
+    second: hk416_11
+  - first:
+      213: -2638896502214091525
+    second: hk416_12
+  - first:
+      213: 3343181178140315152
+    second: hk416_13
+  - first:
+      213: -3598010884357859635
+    second: hk416_14
+  - first:
+      213: -1763046040053352354
+    second: hk416_15
+  - first:
+      213: -8651051002300865384
+    second: hk416_16
+  - first:
+      213: -7362394580864543208
+    second: hk416_17
+  - first:
+      213: 4720882776098291190
+    second: hk416_18
+  - first:
+      213: -9111785556331485944
+    second: hk416_19
+  - first:
+      213: -284560840945645825
+    second: hk416_20
+  - first:
+      213: -4071106813227853121
+    second: hk416_21
+  - first:
+      213: 6293748039502380758
+    second: hk416_22
+  - first:
+      213: -7825623639980228708
+    second: hk416_23
+  - first:
+      213: -8239225789710429854
+    second: hk416_24
+  - first:
+      213: 4753133414659803351
+    second: hk416_25
+  - first:
+      213: 474471590733173372
+    second: hk416_26
+  - first:
+      213: 2817955885325412244
+    second: hk416_27
+  - first:
+      213: 5050980013060805367
+    second: hk416_28
+  - first:
+      213: 6866595064848667338
+    second: hk416_29
+  - first:
+      213: -7880448848123454471
+    second: hk416_30
+  - first:
+      213: 808168233597583977
+    second: hk416_31
+  - first:
+      213: -5645962525715586109
+    second: hk416_32
+  - first:
+      213: 4185573249666922160
+    second: hk416_33
+  - first:
+      213: -8281872873148161423
+    second: hk416_34
+  - first:
+      213: -2807089159158637887
+    second: hk416_35
+  - first:
+      213: 45076276610193222
+    second: hk416_36
+  - first:
+      213: 6390865022005633379
+    second: hk416_37
+  - first:
+      213: 5410444341266873706
+    second: hk416_38
+  - first:
+      213: 6262397721268699753
+    second: hk416_39
+  - first:
+      213: -2410119925864209429
+    second: hk416_40
+  - first:
+      213: -5759318971110235259
+    second: hk416_41
+  - first:
+      213: -6063085529254349745
+    second: hk416_42
+  - first:
+      213: 2983510756724796619
+    second: hk416_43
+  - first:
+      213: 1314264768461492462
+    second: hk416_44
+  - first:
+      213: -6741169517333583809
+    second: hk416_45
+  - first:
+      213: 901453551867178590
+    second: hk416_46
+  - first:
+      213: 4512855700748815106
+    second: hk416_47
+  - first:
+      213: 3993363118507965492
+    second: hk416_48
+  - first:
+      213: -483825068049761943
+    second: hk416_49
+  - first:
+      213: -4303415043148724227
+    second: hk416_50
+  - first:
+      213: -2317990298861740547
+    second: hk416_51
+  - first:
+      213: 4256411778598315346
+    second: hk416_52
+  - first:
+      213: -3148605562736545912
+    second: hk416_53
+  - first:
+      213: 8469824813956409395
+    second: hk416_54
+  - first:
+      213: -3317135460082743586
+    second: hk416_55
+  - first:
+      213: -3654763252618027800
+    second: hk416_56
+  - first:
+      213: 2224140942432144617
+    second: hk416_57
+  - first:
+      213: -5563478188156673346
+    second: hk416_58
+  - first:
+      213: 8191562893764955981
+    second: hk416_59
+  - first:
+      213: 5071453247250039291
+    second: hk416_60
+  - first:
+      213: 5562090666956786672
+    second: hk416_61
+  - first:
+      213: 5311976900066926630
+    second: hk416_62
+  - first:
+      213: -1803164723572061631
+    second: hk416_63
+  - first:
+      213: -6680124730722059121
+    second: hk416_64
+  - first:
+      213: 2162811250359161639
+    second: hk416_65
+  - first:
+      213: -5335695664169048010
+    second: hk416_66
+  - first:
+      213: 1825061723937012535
+    second: hk416_67
+  - first:
+      213: 7082249830270385383
+    second: hk416_68
+  - first:
+      213: 8178137610038448307
+    second: hk416_69
+  - first:
+      213: -1178951133760657882
+    second: hk416_70
+  - first:
+      213: 7305835655369091182
+    second: hk416_71
+  - first:
+      213: 7267522060705855914
+    second: hk416_72
+  - first:
+      213: 6099156625204079961
+    second: hk416_73
+  - first:
+      213: -1835868013777105008
+    second: hk416_74
+  - first:
+      213: -391742132390152016
+    second: hk416_75
+  - first:
+      213: -4750003849846305887
+    second: hk416_76
+  - first:
+      213: 5601902816575027508
+    second: hk416_77
+  - first:
+      213: -6910824246433119810
+    second: hk416_78
+  - first:
+      213: 5848268435701129795
+    second: hk416_79
+  - first:
+      213: -8845547652997992875
+    second: hk416_80
+  - first:
+      213: 3667514942607333869
+    second: hk416_81
+  - first:
+      213: -254169111617328260
+    second: hk416_82
+  - first:
+      213: 8684478600804603910
+    second: hk416_83
+  - first:
+      213: -4548350284713616987
+    second: hk416_84
+  - first:
+      213: 7015612150154283335
+    second: hk416_85
+  - first:
+      213: -8672996522073593243
+    second: hk416_86
+  - first:
+      213: 2343973747478690968
+    second: hk416_87
+  - first:
+      213: -1827177031689346884
+    second: hk416_88
+  - first:
+      213: 8383778347292314512
+    second: hk416_89
+  - first:
+      213: -5617647690994056020
+    second: hk416_90
+  - first:
+      213: 7471529615764001559
+    second: hk416_91
+  - first:
+      213: -268618237796179919
+    second: hk416_92
+  - first:
+      213: -4897262198383319053
+    second: hk416_93
+  - first:
+      213: -5457229694086151173
+    second: hk416_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hk416_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 1040
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5997846b1642e7d0800000000000000
+      internalID: -2890670927353767585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_1
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1955
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c0428975b20a8e0800000000000000
+      internalID: -1684298605421917116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_2
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1868
+        width: 330
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f993413f6c3280100800000000000000
+      internalID: 74348731240298911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_3
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1863
+        width: 196
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85b7ce30faa36ad0800000000000000
+      internalID: -2710134601924758132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_4
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1878
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaa4e21e85f0eac0800000000000000
+      internalID: -3827789692713784667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_5
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1893
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560f8f943fd399380800000000000000
+      internalID: -8964065468176863131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_6
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1735
+        width: 125
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c73f333466a96d0800000000000000
+      internalID: -2982959364359095207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_7
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1714
+        width: 238
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f32f6b8933bbb40800000000000000
+      internalID: 5457012104486862651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_8
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1771
+        width: 197
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcb81401b57cbe20800000000000000
+      internalID: 3367696024504679640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_9
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1755
+        width: 196
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fdac583062bcdf0800000000000000
+      internalID: -158991565270098146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_10
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1771
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8894adf3ffba54f00800000000000000
+      internalID: 1100474796738234760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_11
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1781
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fff9a7f4474db30800000000000000
+      internalID: 4311198628008951703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_12
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1499
+        width: 432
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc128adc91c06bd0800000000000000
+      internalID: -2638896502214091525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_13
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1719
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e43de819d556e20800000000000000
+      internalID: 3343181178140315152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_14
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1709
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc65cdbe92c411ec0800000000000000
+      internalID: -3598010884357859635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_15
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1612
+        width: 176
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58f5f3b7f66887e0800000000000000
+      internalID: -1763046040053352354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_16
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1637
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e11ad2fa41f780800000000000000
+      internalID: -8651051002300865384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_17
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1663
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816de47e22583d990800000000000000
+      internalID: -7362394580864543208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_18
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1525
+        width: 84
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd399f5fd1f38140800000000000000
+      internalID: 4720882776098291190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_19
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1555
+        width: 186
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805a355105f6c8180800000000000000
+      internalID: -9111785556331485944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_20
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1458
+        width: 279
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6c27e3c690d0cf0800000000000000
+      internalID: -284560840945645825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_21
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1474
+        width: 176
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba91ea4ce58087c0800000000000000
+      internalID: -4071106813227853121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_22
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1494
+        width: 119
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deb9580f72e75750800000000000000
+      internalID: 6293748039502380758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_23
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1438
+        width: 135
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f3419e2ccc56390800000000000000
+      internalID: -7825623639980228708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_24
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1407
+        width: 187
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261921c2cc368ad80800000000000000
+      internalID: -8239225789710429854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_25
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1356
+        width: 278
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d846de48a586f140800000000000000
+      internalID: 4753133414659803351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_26
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1310
+        width: 289
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c725aadd569a59600800000000000000
+      internalID: 474471590733173372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_27
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1366
+        width: 145
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ea8192f36b1720800000000000000
+      internalID: 2817955885325412244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_28
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1346
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f256168f8fa81640800000000000000
+      internalID: 5050980013060805367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_29
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1018
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac251c8a4db0b4f50800000000000000
+      internalID: 6866595064848667338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_30
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1049
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb17f8668503a290800000000000000
+      internalID: -7880448848123454471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_31
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1054
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962c6520ab0373b00800000000000000
+      internalID: 808168233597583977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_32
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1049
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c32e871ff285a1b0800000000000000
+      internalID: -5645962525715586109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_33
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 997
+        width: 186
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b636c7c1b4261a30800000000000000
+      internalID: 4185573249666922160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_34
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 941
+        width: 289
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1726f094080e01d80800000000000000
+      internalID: -8281872873148161423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_35
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1028
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cadf7748473b09d0800000000000000
+      internalID: -2807089159158637887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_36
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1038
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647d52f72a420a000800000000000000
+      internalID: 45076276610193222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_37
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1033
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3616d1490e9e0b850800000000000000
+      internalID: 6390865022005633379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_38
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1018
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dfb3e6672c51b40800000000000000
+      internalID: 5410444341266873706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_39
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1018
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962cf624c8188e650800000000000000
+      internalID: 6262397721268699753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 997
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3e5c062b88d8ed0800000000000000
+      internalID: -2410119925864209429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_41
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1003
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5836ec2f8e9c210b0800000000000000
+      internalID: -5759318971110235259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 982
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44bbf1b5d79bdba0800000000000000
+      internalID: -6063085529254349745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_43
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 987
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc6326d93f876920800000000000000
+      internalID: 2983510756724796619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_44
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 962
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee055f8f7d43d3210800000000000000
+      internalID: 1314264768461492462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_45
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 967
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38e3ac4a0e8272a0800000000000000
+      internalID: -6741169517333583809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 967
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eae84ba3b928c00800000000000000
+      internalID: 901453551867178590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 967
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bcab58952e0ae30800000000000000
+      internalID: 4512855700748815106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_48
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 967
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c30d939964b6730800000000000000
+      internalID: 3993363118507965492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 967
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969f67df9ab1949f0800000000000000
+      internalID: -483825068049761943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_50
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 972
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df74c0891d23744c0800000000000000
+      internalID: -4303415043148724227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_51
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 956
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd5b8bba18d4dfd0800000000000000
+      internalID: -2317990298861740547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_52
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 962
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255242116ffc11b30800000000000000
+      internalID: 4256411778598315346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_53
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 941
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fe4473ce7ed44d0800000000000000
+      internalID: -3148605562736545912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_54
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 941
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33829a11bccda8570800000000000000
+      internalID: 8469824813956409395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_55
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 946
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed68aedbfda27f1d0800000000000000
+      internalID: -3317135460082743586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_56
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 931
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1d8d7f2ca74dc0800000000000000
+      internalID: -3654763252618027800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 926
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec0214376cbdde10800000000000000
+      internalID: 2224140942432144617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_58
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 931
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2a94f701e8ac2b0800000000000000
+      internalID: -5563478188156673346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_59
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 680
+        width: 299
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f81261d074ea170800000000000000
+      internalID: 8191562893764955981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 900
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf10751dbdb616640800000000000000
+      internalID: 5071453247250039291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 890
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb897c0ef3803d40800000000000000
+      internalID: 5562090666956786672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 706
+        width: 299
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620e197b8dee7b940800000000000000
+      internalID: 5311976900066926630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_63
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 793
+        width: 176
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ac8fbcc3fd9f6e0800000000000000
+      internalID: -1803164723572061631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_64
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 767
+        width: 207
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c720243fd6b43a0800000000000000
+      internalID: -6680124730722059121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_65
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 828
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72350e58f59d30e10800000000000000
+      internalID: 2162811250359161639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_66
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 828
+        width: 104
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638ac9b201dc3f5b0800000000000000
+      internalID: -5335695664169048010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 736
+        width: 115
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b7d64e7fbe35910800000000000000
+      internalID: 1825061723937012535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_68
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 659
+        width: 299
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec36df72b4394260800000000000000
+      internalID: 7082249830270385383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_69
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 680
+        width: 269
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b09a92a3d49e7170800000000000000
+      internalID: 8178137610038448307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_70
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 629
+        width: 268
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626e6a0b03683afe0800000000000000
+      internalID: -1178951133760657882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_71
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 603
+        width: 279
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6868a112da836560800000000000000
+      internalID: 7305835655369091182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_72
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 629
+        width: 176
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9ffa92fcc6bd460800000000000000
+      internalID: 7267522060705855914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_73
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 726
+        width: 176
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d62cac2ae84a450800000000000000
+      internalID: 6099156625204079961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_74
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 634
+        width: 268
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f4050b4cfa586e0800000000000000
+      internalID: -1835868013777105008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_75
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 716
+        width: 135
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8b45b2b90409af0800000000000000
+      internalID: -391742132390152016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 175
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab4c284aa8941eb0800000000000000
+      internalID: -4750003849846305887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_77
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 629
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f6387ee4fdbd40800000000000000
+      internalID: 5601902816575027508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_78
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 593
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1823686f1d710a0800000000000000
+      internalID: -6910824246433119810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_79
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 598
+        width: 207
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34268152829392150800000000000000
+      internalID: 5848268435701129795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_80
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 588
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ea34b764d4e3580800000000000000
+      internalID: -8845547652997992875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_81
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 639
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de91c82b861a5e230800000000000000
+      internalID: 3667514942607333869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_82
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 567
+        width: 125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b2c252a82097cf0800000000000000
+      internalID: -254169111617328260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_83
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 593
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608907c6647758870800000000000000
+      internalID: 8684478600804603910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_84
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 593
+        width: 84
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a91995a38301e0c0800000000000000
+      internalID: -4548350284713616987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_85
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 593
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7494cdb84167c5160800000000000000
+      internalID: 7015612150154283335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_86
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 598
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aea9b5d9353a780800000000000000
+      internalID: -8672996522073593243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_87
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 511
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cfe4554b7778020800000000000000
+      internalID: 2343973747478690968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_88
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 552
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb06764ab2094a6e0800000000000000
+      internalID: -1827177031689346884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_89
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 501
+        width: 89
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b48f9dcf9295470800000000000000
+      internalID: 8383778347292314512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_90
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 511
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca48109403b1a02b0800000000000000
+      internalID: -5617647690994056020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_91
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 465
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7139c64899430b760800000000000000
+      internalID: 7471529615764001559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_92
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 450
+        width: 94
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a7fbc22da54cf0800000000000000
+      internalID: -268618237796179919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_93
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 480
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7e9653afd690cb0800000000000000
+      internalID: -4897262198383319053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hk416_94
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 434
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf30842c1860444b0800000000000000
+      internalID: -5457229694086151173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hk416_0: -2890670927353767585
+      hk416_1: -1684298605421917116
+      hk416_10: 1100474796738234760
+      hk416_11: 4311198628008951703
+      hk416_12: -2638896502214091525
+      hk416_13: 3343181178140315152
+      hk416_14: -3598010884357859635
+      hk416_15: -1763046040053352354
+      hk416_16: -8651051002300865384
+      hk416_17: -7362394580864543208
+      hk416_18: 4720882776098291190
+      hk416_19: -9111785556331485944
+      hk416_2: 74348731240298911
+      hk416_20: -284560840945645825
+      hk416_21: -4071106813227853121
+      hk416_22: 6293748039502380758
+      hk416_23: -7825623639980228708
+      hk416_24: -8239225789710429854
+      hk416_25: 4753133414659803351
+      hk416_26: 474471590733173372
+      hk416_27: 2817955885325412244
+      hk416_28: 5050980013060805367
+      hk416_29: 6866595064848667338
+      hk416_3: -2710134601924758132
+      hk416_30: -7880448848123454471
+      hk416_31: 808168233597583977
+      hk416_32: -5645962525715586109
+      hk416_33: 4185573249666922160
+      hk416_34: -8281872873148161423
+      hk416_35: -2807089159158637887
+      hk416_36: 45076276610193222
+      hk416_37: 6390865022005633379
+      hk416_38: 5410444341266873706
+      hk416_39: 6262397721268699753
+      hk416_4: -3827789692713784667
+      hk416_40: -2410119925864209429
+      hk416_41: -5759318971110235259
+      hk416_42: -6063085529254349745
+      hk416_43: 2983510756724796619
+      hk416_44: 1314264768461492462
+      hk416_45: -6741169517333583809
+      hk416_46: 901453551867178590
+      hk416_47: 4512855700748815106
+      hk416_48: 3993363118507965492
+      hk416_49: -483825068049761943
+      hk416_5: -8964065468176863131
+      hk416_50: -4303415043148724227
+      hk416_51: -2317990298861740547
+      hk416_52: 4256411778598315346
+      hk416_53: -3148605562736545912
+      hk416_54: 8469824813956409395
+      hk416_55: -3317135460082743586
+      hk416_56: -3654763252618027800
+      hk416_57: 2224140942432144617
+      hk416_58: -5563478188156673346
+      hk416_59: 8191562893764955981
+      hk416_6: -2982959364359095207
+      hk416_60: 5071453247250039291
+      hk416_61: 5562090666956786672
+      hk416_62: 5311976900066926630
+      hk416_63: -1803164723572061631
+      hk416_64: -6680124730722059121
+      hk416_65: 2162811250359161639
+      hk416_66: -5335695664169048010
+      hk416_67: 1825061723937012535
+      hk416_68: 7082249830270385383
+      hk416_69: 8178137610038448307
+      hk416_7: 5457012104486862651
+      hk416_70: -1178951133760657882
+      hk416_71: 7305835655369091182
+      hk416_72: 7267522060705855914
+      hk416_73: 6099156625204079961
+      hk416_74: -1835868013777105008
+      hk416_75: -391742132390152016
+      hk416_76: -4750003849846305887
+      hk416_77: 5601902816575027508
+      hk416_78: -6910824246433119810
+      hk416_79: 5848268435701129795
+      hk416_8: 3367696024504679640
+      hk416_80: -8845547652997992875
+      hk416_81: 3667514942607333869
+      hk416_82: -254169111617328260
+      hk416_83: 8684478600804603910
+      hk416_84: -4548350284713616987
+      hk416_85: 7015612150154283335
+      hk416_86: -8672996522073593243
+      hk416_87: 2343973747478690968
+      hk416_88: -1827177031689346884
+      hk416_89: 8383778347292314512
+      hk416_9: -158991565270098146
+      hk416_90: -5617647690994056020
+      hk416_91: 7471529615764001559
+      hk416_92: -268618237796179919
+      hk416_93: -4897262198383319053
+      hk416_94: -5457229694086151173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

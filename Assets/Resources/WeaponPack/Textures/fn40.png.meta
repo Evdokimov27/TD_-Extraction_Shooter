@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: a361f80a8c8398c4b9fc70861e94c3e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7894584119003292283
+    second: fn40_0
+  - first:
+      213: 3287627846233823816
+    second: fn40_1
+  - first:
+      213: -3055716989943508286
+    second: fn40_2
+  - first:
+      213: 6157230226260555854
+    second: fn40_3
+  - first:
+      213: 6579579263778538135
+    second: fn40_4
+  - first:
+      213: -4522721512954000799
+    second: fn40_5
+  - first:
+      213: 8888437893157783077
+    second: fn40_6
+  - first:
+      213: -9029628896773323905
+    second: fn40_7
+  - first:
+      213: 7232445712722969693
+    second: fn40_8
+  - first:
+      213: -5958950951786561231
+    second: fn40_9
+  - first:
+      213: -6568925078967319193
+    second: fn40_10
+  - first:
+      213: -703034371208651637
+    second: fn40_11
+  - first:
+      213: -2957363792351465021
+    second: fn40_12
+  - first:
+      213: 1797501266362923378
+    second: fn40_13
+  - first:
+      213: 2304294989317673494
+    second: fn40_14
+  - first:
+      213: 4684066610351623597
+    second: fn40_15
+  - first:
+      213: 1218069038740804924
+    second: fn40_16
+  - first:
+      213: -4837071957272533093
+    second: fn40_17
+  - first:
+      213: -3552198495401217453
+    second: fn40_18
+  - first:
+      213: 4831302496809775444
+    second: fn40_19
+  - first:
+      213: 4387351896397279786
+    second: fn40_20
+  - first:
+      213: -2832609951319462308
+    second: fn40_21
+  - first:
+      213: -4790597620253038618
+    second: fn40_22
+  - first:
+      213: -1732589398730342677
+    second: fn40_23
+  - first:
+      213: -4819841562546741586
+    second: fn40_24
+  - first:
+      213: 3937423406809121806
+    second: fn40_25
+  - first:
+      213: -4433562983118552073
+    second: fn40_26
+  - first:
+      213: -3736890578680445969
+    second: fn40_27
+  - first:
+      213: -3421781112011238666
+    second: fn40_28
+  - first:
+      213: 2527970393071945736
+    second: fn40_29
+  - first:
+      213: 486003757912858217
+    second: fn40_30
+  - first:
+      213: 7846685719170394873
+    second: fn40_31
+  - first:
+      213: 6379831108582215625
+    second: fn40_32
+  - first:
+      213: -3892138009775885722
+    second: fn40_33
+  - first:
+      213: -4380406735320671615
+    second: fn40_34
+  - first:
+      213: 8111659790015813001
+    second: fn40_35
+  - first:
+      213: 4357984881646144289
+    second: fn40_36
+  - first:
+      213: -3961746886500020892
+    second: fn40_37
+  - first:
+      213: -8333820147673330817
+    second: fn40_38
+  - first:
+      213: 731685518633494747
+    second: fn40_39
+  - first:
+      213: -1135708269194574295
+    second: fn40_40
+  - first:
+      213: -2314675837960883056
+    second: fn40_41
+  - first:
+      213: 1824764570525831270
+    second: fn40_42
+  - first:
+      213: 395123087896659520
+    second: fn40_43
+  - first:
+      213: 7770515410125021497
+    second: fn40_44
+  - first:
+      213: 6426538321511618547
+    second: fn40_45
+  - first:
+      213: 5021223584205939686
+    second: fn40_46
+  - first:
+      213: 5552758156636171258
+    second: fn40_47
+  - first:
+      213: 4124596124718025100
+    second: fn40_48
+  - first:
+      213: 1599268095699005909
+    second: fn40_49
+  - first:
+      213: -6966021052931324097
+    second: fn40_50
+  - first:
+      213: -6125771818871177667
+    second: fn40_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fn40_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 1388
+        height: 1206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d5e51329dc07290800000000000000
+      internalID: -7894584119003292283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_1
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1661
+        width: 341
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a13788b1000ad20800000000000000
+      internalID: 3287627846233823816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_2
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1713
+        width: 248
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c29a486699e795d0800000000000000
+      internalID: -3055716989943508286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_3
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1491
+        width: 154
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48fe84b440e27550800000000000000
+      internalID: 6157230226260555854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_4
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1421
+        width: 306
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792cb05fa7c5f4b50800000000000000
+      internalID: 6579579263778538135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_5
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1362
+        width: 306
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a0c521fb01c31c0800000000000000
+      internalID: -4522721512954000799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_6
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1362
+        width: 225
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5268acdbb231a5b70800000000000000
+      internalID: 8888437893157783077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_7
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1304
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7349320c5050b280800000000000000
+      internalID: -9029628896773323905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_8
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1070
+        width: 330
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54462c7e0fce5460800000000000000
+      internalID: 7232445712722969693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_9
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1146
+        width: 189
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13149c46ead8d4da0800000000000000
+      internalID: -5958950951786561231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_10
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1222
+        width: 154
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7658fffb17d76d4a0800000000000000
+      internalID: -6568925078967319193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_11
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1193
+        width: 95
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cd737d6f15e36f0800000000000000
+      internalID: -703034371208651637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_12
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1093
+        width: 155
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1f945bc4555f6d0800000000000000
+      internalID: -2957363792351465021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_13
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1117
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27970e0d0e102f810800000000000000
+      internalID: 1797501266362923378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_14
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 959
+        width: 142
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6121ef785108aff10800000000000000
+      internalID: 2304294989317673494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_15
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1035
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadc64ec3c5210140800000000000000
+      internalID: 4684066610351623597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_16
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 918
+        width: 341
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c351c0e465377e010800000000000000
+      internalID: 1218069038740804924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_17
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 994
+        width: 119
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9764c9cea44fdcb0800000000000000
+      internalID: -4837071957272533093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_18
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 929
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352feede94e04bec0800000000000000
+      internalID: -3552198495401217453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 707
+        width: 318
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451fdc4060c3c0340800000000000000
+      internalID: 4831302496809775444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_20
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 748
+        width: 213
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a227569fd4103ec30800000000000000
+      internalID: 4387351896397279786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_21
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 760
+        width: 212
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eed50d14c80b8d0800000000000000
+      internalID: -2832609951319462308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_22
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 842
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e76cf698d0648db0800000000000000
+      internalID: -4790597620253038618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_23
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 865
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beef11b1f1b94f7e0800000000000000
+      internalID: -1732589398730342677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_24
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 859
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaedcbea2ab7c1db0800000000000000
+      internalID: -4819841562546741586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 730
+        width: 213
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e048a252ab984a630800000000000000
+      internalID: 3937423406809121806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_26
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 842
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3c5e5f4f1d872c0800000000000000
+      internalID: -4433562983118552073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_27
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 719
+        width: 236
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe38f3d41d5e32cc0800000000000000
+      internalID: -3736890578680445969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 771
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2dd6f35346380d0800000000000000
+      internalID: -3421781112011238666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_29
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 730
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80802c1cda7251320800000000000000
+      internalID: 2527970393071945736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_30
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 730
+        width: 131
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e96e5c7d1aeb600800000000000000
+      internalID: 486003757912858217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_31
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 637
+        width: 212
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa284b861705ec60800000000000000
+      internalID: 7846685719170394873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_32
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 736
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf870a6796b98850800000000000000
+      internalID: 6379831108582215625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_33
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 608
+        width: 248
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662338ef9195cf9c0800000000000000
+      internalID: -3892138009775885722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_34
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 613
+        width: 224
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a9b79584ba533c0800000000000000
+      internalID: -4380406735320671615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_35
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 613
+        width: 213
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98556b20a97629070800000000000000
+      internalID: 8111659790015813001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_36
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 666
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b8a07092caa7c30800000000000000
+      internalID: 4357984881646144289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_37
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 438
+        width: 564
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d082c623c0509c0800000000000000
+      internalID: -3961746886500020892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 262
+        width: 575
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b00fbeab2585c80800000000000000
+      internalID: -8333820147673330817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_39
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 444
+        width: 248
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd862714a18772a00800000000000000
+      internalID: 731685518633494747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_40
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 561
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9260f2ea8572d30f0800000000000000
+      internalID: -1135708269194574295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_41
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 391
+        width: 272
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094792cc69e90efd0800000000000000
+      internalID: -2314675837960883056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_42
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 321
+        width: 247
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66019e875bdd25910800000000000000
+      internalID: 1824764570525831270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_43
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 379
+        width: 271
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046c2a0ea52cb7500800000000000000
+      internalID: 395123087896659520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_44
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 391
+        width: 247
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9316336789a66db60800000000000000
+      internalID: 7770515410125021497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_45
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 221
+        width: 271
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7922ddd86af2950800000000000000
+      internalID: 6426538321511618547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_46
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 251
+        width: 247
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3a86a0f38fea540800000000000000
+      internalID: 5021223584205939686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_47
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 98
+        width: 248
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afba3f9af1c5f0d40800000000000000
+      internalID: 5552758156636171258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_48
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 198
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8945c782528d3930800000000000000
+      internalID: 4124596124718025100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_49
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 216
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d131c81cddb13610800000000000000
+      internalID: 1599268095699005909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_50
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 151
+        width: 72
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37c22a82c8b35f90800000000000000
+      internalID: -6966021052931324097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn40_51
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 52
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eb5198cf2ecfaa0800000000000000
+      internalID: -6125771818871177667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fn40_0: -7894584119003292283
+      fn40_1: 3287627846233823816
+      fn40_10: -6568925078967319193
+      fn40_11: -703034371208651637
+      fn40_12: -2957363792351465021
+      fn40_13: 1797501266362923378
+      fn40_14: 2304294989317673494
+      fn40_15: 4684066610351623597
+      fn40_16: 1218069038740804924
+      fn40_17: -4837071957272533093
+      fn40_18: -3552198495401217453
+      fn40_19: 4831302496809775444
+      fn40_2: -3055716989943508286
+      fn40_20: 4387351896397279786
+      fn40_21: -2832609951319462308
+      fn40_22: -4790597620253038618
+      fn40_23: -1732589398730342677
+      fn40_24: -4819841562546741586
+      fn40_25: 3937423406809121806
+      fn40_26: -4433562983118552073
+      fn40_27: -3736890578680445969
+      fn40_28: -3421781112011238666
+      fn40_29: 2527970393071945736
+      fn40_3: 6157230226260555854
+      fn40_30: 486003757912858217
+      fn40_31: 7846685719170394873
+      fn40_32: 6379831108582215625
+      fn40_33: -3892138009775885722
+      fn40_34: -4380406735320671615
+      fn40_35: 8111659790015813001
+      fn40_36: 4357984881646144289
+      fn40_37: -3961746886500020892
+      fn40_38: -8333820147673330817
+      fn40_39: 731685518633494747
+      fn40_4: 6579579263778538135
+      fn40_40: -1135708269194574295
+      fn40_41: -2314675837960883056
+      fn40_42: 1824764570525831270
+      fn40_43: 395123087896659520
+      fn40_44: 7770515410125021497
+      fn40_45: 6426538321511618547
+      fn40_46: 5021223584205939686
+      fn40_47: 5552758156636171258
+      fn40_48: 4124596124718025100
+      fn40_49: 1599268095699005909
+      fn40_5: -4522721512954000799
+      fn40_50: -6966021052931324097
+      fn40_51: -6125771818871177667
+      fn40_6: 8888437893157783077
+      fn40_7: -9029628896773323905
+      fn40_8: 7232445712722969693
+      fn40_9: -5958950951786561231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
