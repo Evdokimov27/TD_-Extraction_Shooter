@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 224587d1e2920e547afe245cd5d8e23a, type: 3}
+  m_Name: Backpack
+  m_EditorClassIdentifier: 
+  displayName: "\u0420\u044E\u0431\u0437\u0430\u043A"
+  description: "\u0420\u044E\u043A\u0437\u0430\u0447\u043E\u043A\n"
+  dimensionsSo: {fileID: 11400000, guid: 099ef8c48317fd147a22839ef2565cf7, type: 2}
+  icon: {fileID: 21300000, guid: 48f01734e6f256c43b0ee4d8a21d6150, type: 3}
+  itemDataTypeSo: {fileID: 11400000, guid: 8387d544d1a0e8c44a5fad89d3848cc3, type: 2}
+  audioCueSo: {fileID: 0}
+  iconSizeSo: {fileID: 11400000, guid: 1a0b60ad22c860a4598bb40f6432ac6b, type: 2}
+  inHolderIconSizeSo: {fileID: 11400000, guid: 93ea35f537ee00842be7ffffe2c2c7a4, type: 2}
+  optionsSo:
+  - {fileID: 11400000, guid: c1cec9d777c06408d8dbd9c66423daf4, type: 2}
+  - {fileID: 11400000, guid: 62af6a1365d83406da127cc736b9120f, type: 2}
+  - {fileID: 11400000, guid: 894586a2e9a9a4993aad575ab41f65b2, type: 2}
+  - {fileID: 11400000, guid: b23b4a148508b48788492e7629659885, type: 2}
+  - {fileID: 11400000, guid: e42c6c32c3d6d4286a3b11b055016222, type: 2}
+  containerGrids: {fileID: 2044418879579493444, guid: ea03681e22fc2624c9129a44871592ca, type: 3}
